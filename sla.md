@@ -49,7 +49,7 @@ What we refer to as a working day (WD) is a time unit comprising 8 hours of SLW 
 	</tr>
 </table>
 
-\* Shorter times apply in instances where the website is inaccessible to public
+\* The shorter times listed here apply in instances where the website is inaccessible to public
 
 \*\* Excluding Saturday, Sunday and UK public holidays
 
@@ -59,9 +59,9 @@ What we refer to as a working day (WD) is a time unit comprising 8 hours of SLW 
 
 A support request will be considered to be closed under one of the following conditions.
 
-- We supply a workaround, information that resolves the issue or carry out work and you agree that the issue is resolved.
-- You have not responded 10WD after a workaround or information is provided.
-- You have not responded 10WD after additional information has been requested.
+1. We supply a workaround, information that resolves the issue or carry out work and you agree that the issue is resolved.
+1. You have not responded 10WD after a workaround or information is provided.
+1. You have not responded 10WD after additional information has been requested.
 
 In cases 2 and 3 above, we will follow up with you on or around 5WD and you will receive notification when the ticket is resolved
 
