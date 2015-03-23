@@ -27,11 +27,18 @@ What we refer to as a working day (WD) is a time unit comprising 8 hours of SLW 
 		<th>Support Channels</th>
 	</tr>
 	<tr>
-		<td>Support Lite</td>
+		<td>Micro</td>
 		<td>0900 - 1700 GMT/BST**</td>
 		<td>1WD</td>
 		<td>5WD</td>
 		<td>email</td>
+	</tr>
+	<tr>
+		<td>Business Owner</td>
+		<td>0830 - 1800 GMT/BST***</td>
+		<td>1WD / 1 Hour*</td>
+		<td>5WD / 1WD *</td>
+		<td>email, 24/7 telephone</td>
 	</tr>
 	<tr>
 		<td>Digital Agency Support</td>
@@ -42,16 +49,19 @@ What we refer to as a working day (WD) is a time unit comprising 8 hours of SLW 
 	</tr>
 </table>
 
-* Shorter times apply in instances where the website is inaccessible to public
-** Excluding Saturday, Sunday and UK public holidays
-*** Excluding Sunday and UK public holidays
+\* Shorter times apply in instances where the website is inaccessible to public
+
+\*\* Excluding Saturday, Sunday and UK public holidays
+
+\*\*\* Excluding Sunday and UK public holidays
 
 ##Support request closure##
 
 A support request will be considered to be closed under one of the following conditions.
-We supply a workaround, information that resolves the issue or carry out work and you agree that the issue is resolved.
-You have not responded 10WD after a workaround or information is provided.
-You have not responded 10WD after additional information has been requested.
+
+- We supply a workaround, information that resolves the issue or carry out work and you agree that the issue is resolved.
+- You have not responded 10WD after a workaround or information is provided.
+- You have not responded 10WD after additional information has been requested.
 
 In cases 2 and 3 above, we will follow up with you on or around 5WD and you will receive notification when the ticket is resolved
 
