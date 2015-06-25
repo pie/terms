@@ -71,7 +71,22 @@ It is possible to arrange for support outside the service level window defined i
 
 While we will endeavour to accommodate any request, such support cannot be guaranteed and must be pre-arranged and agreed via email by a representative of Pie Web Limited.
 
-Out of hours support will be charged at 2 x rate for Additional Ad-hoc Hours as defined in your contract, under the same payment terms and detailed separately on any invoice. Out of hours support will not form part of the included Ad-hoc Support Hours.
+Out of hours support will be charged at 2 x rate for Additional Ad-hoc Hours as defined in your support contract, under the same payment terms and detailed separately on any invoice. Out of hours support will not form part of the included Ad-hoc Support Hours.
+
+#Billable vs. Unbillable Time##
+
+The following will be regarded as billable time:
+
+1. Any time we spend delivering the services listed in your support contract
+1. Any time we spend researching or delivering any services not included in point (1)
+1. Any time we spend communicating with you or with any third parties in relation to points (1) and (2)
+
+The following will be regarded as unbillable time:
+
+1. Any time we spend researching the services listed in your support contract
+1. Any time we spend administering your contract (e.g. reporting & billing)
+
+All billable time will be tracked and a report supplied accompanying any invoice
 
 
 
