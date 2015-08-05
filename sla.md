@@ -46,6 +46,10 @@ What we refer to as a working day (WD) is a time unit comprising 8 hours of SLW 
 
 \*\*\* Excluding Sunday and UK public holidays
 
+##SLA Violations##
+
+If we are in violation of the SLA in any given month then you will have the right to receive a 10% discount on your base payment for the following month per violation. In order to receive the discount, you must make a request via an offical support channel within 5WD of the violation. The discount recieved may not exceed the total amount of your base payment for the month in which the violation occured, may not be carried over to any other services, and will not be paid in cash.
+
 ##Support request closure##
 
 A support request will be considered to be closed under one of the following conditions.
