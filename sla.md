@@ -12,7 +12,7 @@ What we refer to as a working day (WD) is a time unit comprising 8 hours of SLW 
 
 ##Support channels##
 
-* Email: Send email to support@pie.co.de which will raise a ticket in our internal system
+* Email: Send email to support@pie.co.de or your assigned support email adress, which will raise a ticket in our internal system
 * 24/7 telephone: Call +44 (0)20 7873 2224 at any time to speak to an agent. Calls will be returned within Maximum WT
 * Client support portal: A web-based support portal of your preference
 
