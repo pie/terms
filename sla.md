@@ -34,13 +34,6 @@ What we refer to as a working day (WD) is a time unit comprising 8 hours of SLW 
 		<td>email</td>
 	</tr>
 	<tr>
-		<td>Business Owner</td>
-		<td>0830 - 1800 GMT/BST***</td>
-		<td>1WD / 1 Hour*</td>
-		<td>5WD / 1WD *</td>
-		<td>email, 24/7 telephone</td>
-	</tr>
-	<tr>
 		<td>Digital Agency Support</td>
 		<td>0830 - 1800 GMT/BST***</td>
 		<td>2 Hours</td>
@@ -48,8 +41,6 @@ What we refer to as a working day (WD) is a time unit comprising 8 hours of SLW 
 		<td>email, client support portal, 24/7 telephone</td>
 	</tr>
 </table>
-
-\* The shorter times listed here apply in instances where the website is inaccessible to public
 
 \*\* Excluding Saturday, Sunday and UK public holidays
 
