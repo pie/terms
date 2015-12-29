@@ -63,15 +63,7 @@ A support request will be considered to be closed under one of the following con
 
 In cases 2 and 3 above, we will follow up with you on or around 5WD and you will receive notification when the ticket is resolved
 
-##Out-of-hours Support##
-
-It is possible to arrange for support outside the service level window defined in the SLA. 
-
-While we will endeavour to accommodate any request, such support cannot be guaranteed and must be pre-arranged and agreed via email by a representative of Pie Web Limited.
-
-Out of hours support will be charged at 2 x rate for Additional Ad-hoc Hours as defined in your support contract, under the same payment terms and detailed separately on any invoice. Out of hours support will not form part of the included Ad-hoc Support Hours.
-
-#Billable vs. Unbillable Time##
+##Billable vs. Unbillable Time##
 
 The following will be regarded as billable time:
 
@@ -85,6 +77,14 @@ The following will be regarded as unbillable time:
 1. Any time we spend administering your contract (e.g. reporting & billing)
 
 All billable time will be tracked and a report supplied accompanying any invoice
+
+##Out-of-hours Support##
+
+It is possible to arrange for support outside the service level window defined in the SLA. 
+
+While we will endeavour to accommodate any request, such support cannot be guaranteed and must be pre-arranged and agreed via email by a representative of Pie Web Limited.
+
+Out of hours support will be charged at 2 x rate for Additional Ad-hoc Hours as defined in your support contract, under the same payment terms and detailed separately on any invoice. Out of hours support will not form part of the included Ad-hoc Support Hours.
 
 
 
