@@ -37,7 +37,7 @@ What we refer to as a working day (WD) is a time unit comprising 8 hours of SLW 
 	</tr>
 	<tr>
 		<td>Digital Agency Support</td>
-		<td>0830 - 1800 GMT/BST***</td>
+		<td>0830 - 1800 GMT/BST**</td>
 		<td>2 Hours</td>
 		<td>3WD</td>
 		<td>email, client support portal, 24/7 telephone</td>
@@ -45,8 +45,6 @@ What we refer to as a working day (WD) is a time unit comprising 8 hours of SLW 
 </table>
 
 \*\* Excluding Saturday, Sunday and UK public holidays
-
-\*\*\* Excluding Sunday and UK public holidays
 
 ##SLA Violations##
 
