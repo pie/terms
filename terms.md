@@ -5,7 +5,7 @@ THIS IS A DEVELOPMENT VERSION OF OUR TERMS AND CONDITIONS. OUR CURRENT TERMS AND
 ##0. What on earth are we talking about?##
 
 * ‘The Contract’ means your Ongoing Support Contract or Development Proposal, and any further documentation directly referenced within it. 
-* ‘The Agreement’ refers to these conditions read in conjunction with the Contract. 
+* ‘The Agreement’ refers to these terms and conditions read in conjunction with the Contract. 
 * ‘The Client’ means the individual or business named in the Contract. 
 * ‘The Project’ means work described by the Contract and governed by the Agreement.
 
@@ -13,9 +13,13 @@ THIS IS A DEVELOPMENT VERSION OF OUR TERMS AND CONDITIONS. OUR CURRENT TERMS AND
 
 Prices stated in the Contract are valid for 30 days from the date of issue. 
 
-Terms will not be deemed accepted until Pie Web Limited receive the Contract signed by the Client. Pie Web Limited reserve the right to withdraw the terms prior to acceptance by the Client.
+These these terms and conditions will not be deemed accepted until Pie Web Limited receive the Contract signed by the Client. Pie Web Limited reserve the right to withdraw the these terms and conditions prior to acceptance by the Client.
 
-All services provided by Pie Web Limited to the Client in relation to delivery of the Project shall be governed by these Conditions. If there is any conflict between these Conditions and any other agreement made between Pie Web Limited and the Client, these Conditions shall prevail.
+All services provided by Pie Web Limited to the Client in relation to delivery of the Project shall be governed by these these terms and conditions. If there is any conflict between these these terms and conditions and any other agreement made between Pie Web Limited and the Client, these these terms and conditions shall prevail.
+
+Nothing in this Agreement shall be deemed to create a partnership or joint venture or contract of employment of any kind between the parties.
+
+Each party agrees that this Agreement sets out the entire agreement between the parties and supersedes all previous agreements.
 
 ##2. Delivery of the Project##
 
@@ -205,13 +209,6 @@ replace the file at the Client’s expense to be assessed on
 a quantum meruit basis.
 
 
-## 18. Relationship##
-
-Nothing in this Agreement shall be deemed to create a partnership or joint venture or contract of employment of any kind between the parties.
-
-## 19. Entire Agreement##
-
-Each party agrees that this Agreement sets out the entire agreement between the parties and supersedes all previous agreements.
 
 ##20. Waiver##
 The failure by Pie Web Limited to enforce any of these Conditions at any time or for any period will not release or exonerate or in any way affect the liability of the Client or be a waiver of:
