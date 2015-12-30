@@ -4,27 +4,28 @@ THIS IS A DEVELOPMENT VERSION OF OUR TERMS AND CONDITIONS. OUR CURRENT TERMS AND
 
 ##0. What on earth are we talking about?##
 
-* ‘The Contract’ means your Support Contract or Development Proposal, and any further documentation directly referenced from within your Support Contract or Development Proposal. 
+* ‘The Contract’ means your Ongoing Support Contract or Development Proposal, and any further documentation directly referenced within it. 
 * ‘The Agreement’ refers to these conditions read in conjunction with the Contract. 
 * ‘The Client’ means the individual or business named in the Contract. 
 * ‘The Project’ means work described by the Contract and governed by the Agreement.
 
 ##1. Before we start working##
 
-Prices stated are valid for 30 days from the date of the Contract. 
+Prices stated in the Contract are valid for 30 days from the date of issue. 
 
-Terms will not be deemed accepted until Pie Web Limited receive the Specification signed by the Client. Pie Web Limited reserve the right to withdraw the terms prior to acceptance by the Client.
+Terms will not be deemed accepted until Pie Web Limited receive the Contract signed by the Client. Pie Web Limited reserve the right to withdraw the terms prior to acceptance by the Client.
 
 All services provided by Pie Web Limited to the Client in relation to delivery of the Project shall be governed by these Conditions. If there is any conflict between these Conditions and any other agreement made between Pie Web Limited and the Client, these Conditions shall prevail.
 
+##2. Delivery of the Project##
 
-##2. Project Development##
+Subject to payment of the Fees and the provision of any required content by the Client, Pie Web Limited agrees to undertake delivery of the Project using reasonable endeavours and in accordance with the other provisions of this Agreement. Pie Web Limited reserve the right to assign subcontractors to complete part or the whole of the Project.
 
-Subject to payment of the Fees and the provision of any required content by the Client, Pie Web Limited agrees to undertake delivery of the Project using reasonable endeavours and in accordance with the other provisions of this Agreement. Pie Web Limited reserve the right to assign subcontractors to complete part or the whole of the work described by the Contract.
+Pie Web Limited shall notify the Client when the Project or any agreed component is available for approval or acceptance testing. The Client shall advise Pie Web Limited of any errors in that version of the Project or component within the timeframe specified in the Contract. Pie Web Limited will use reasonable endeavours to correct such errors.
 
-Pie Web Limited shall notify the Client when the Project or any agreed component is available for approval or acceptance testing. The Client shall advise Pie Web Limited of any errors in that version of the Project within the timeframe specified in the Contract. Pie Web Limited will use reasonable endeavours to correct such errors.
+If the Client does not notify Pie Web Limited of any errors within the timeframe specified in the Contract, the Project or component will be deemed to have been completed to a satisfactory standard `and payment will be due in accordance with section 5 of these conditions`.
 
-If the Client does not notify Pie Web Limited of any errors within the timeframe specified in the Contract, the Project or component will be deemed to have been completed to a satisfactory standard and payment will be due in accordance with section 5 of these conditions.
+Throughout delivery of the Project, time shall not be of the essence, except where it is expressly stated to apply.
 
 ##3. Amendments##
 
@@ -34,7 +35,7 @@ Pie Web Limited reserves the right to charge for any additional work and will pr
 
 The Client will be required to agree the amended Contract in writing by email or postal mail before work on the amendments can commence. If the Client does not return the signed amended Contract to Pie Web Limited within 20 working days, the Client shall be deemed not to require such amendments and the Project shall be deemed complete with payment due in accordance with clause 5.
 
-##4. Client Obligations##
+`##4. Client Obligations##
 
 The Client agrees:
 
@@ -51,14 +52,14 @@ apply the nearest available alternative solution
 * If a choice of design is presented by the Client, only one
 solution is deemed to be given by Pie Web Limited as fulfilling
 the Project.
-
+`
 ##5. Payment##
 
-The Client shall pay a deposit as requested by Pie Web Limited in the Letter of Engagement. Pie Web Limited will not commence any work on the Project until deposit monies are received by Pie Web Limited.
+The Client shall pay a deposit or retainer as requested by Pie Web Limited in the Contract. Pie Web Limited will not commence any work on the Project until deposit monies are received by Pie Web Limited.
 
 The balance of the price shall become due at the completion of the Project (or deemed completion in accordance with clauses 2 or 3).
 
-All invoices must be settled within 30 days of the invoice date. Payment may be made by cash or bank transfer.
+All invoices must be settled by the due date specified on the invoice, which will be in accordance with the payment schedule defined in the Contract. Payment may be made by cash or bank transfer.
 
 All prices quoted for work are subject to VAT at the prevailing rate.
 
@@ -123,22 +124,16 @@ The Client will indemnify Pie Web Limited in relation to any
 liability arising in respect of the matters at 10.2. 10.4 and
 10.5.
 ##11. Limitation of Liability##
-Notwithstanding anything contained in these Conditions or the Specification, Pie Web Limited’s liability to the Client in
-respect of the Project, in contract, tort (including negligence or breach of statutory duty) or howsoever otherwise arising, shall be limited to the price for the Project specified in the Letter of Engagement.
 
-Notwithstanding anything contained in these Conditions or the Specification, in no circumstances shall Pie Web Limited
-be liable, in contract, tort (including negligence or breach of statutory duty) or otherwise howsoever, and whatever
-the cause thereof (i) for any loss of profit, business, contracts, revenues or anticipated savings, or (ii) for any
-special indirect or consequential damage of any nature whatsoever.
+Notwithstanding anything contained in this Agreement, Pie Web Limited’s liability to the Client in respect of the Project, in contract, tort (including negligence or breach of statutory duty) or howsoever otherwise arising, shall be limited to the price for the Project specified in the Contract.
+
+Notwithstanding anything contained in thAgreement, in no circumstances shall Pie Web Limited be liable, in contract, tort (including negligence or breach of statutory duty) or otherwise howsoever, and whatever the cause thereof (i) for any loss of profit, business, contracts, revenues or anticipated savings, or (ii) for any special indirect or consequential damage of any nature whatsoever.
 
 ##12. Force Majeure##
 
-Pie Web Limited shall not be under any liability for any failure to perform any of its obligations under the order due to
-‘Force Majeure’. Following notification by Pie Web Limited to the Client of such cause, Pie Web Limited shall be allowed a
-reasonable extension of time for the performance of its obligations.
+Pie Web Limited shall not be under any liability for any failure to perform any of its obligations under the order due to ‘Force Majeure’. Following notification by Pie Web Limited to the Client of such cause, Pie Web Limited shall be allowed a reasonable extension of time for the performance of its obligations.
 
-For the purposes of this condition, ‘Force Majeure’ means fire, explosion, flood, lightening, Act of God, act of
-terrorism, war, rebellion, riot, sabotage, telecommunication problems, software failure, hardware failure, third party interference, official strike or similar official labour dispute, or events or circumstances outside the reasonable control of the party affected thereby.
+For the purposes of this condition, ‘Force Majeure’ means fire, explosion, flood, lightening, Act of God, act of terrorism, war, rebellion, riot, sabotage, telecommunication problems, software failure, hardware failure, third party interference, official strike or similar official labour dispute, or events or circumstances outside the reasonable control of the party affected thereby.
 
 ## 13. Confidentiality and Data##
 
@@ -172,16 +167,6 @@ Pie Web Limited reserves the right not to work with any Client who has a site wh
 Pie Web Limited reserves the right without notice to cancel, reject, refuse sale to or work with a Client without reason
 for such rejection or refusal.
 
-Pie Web Limited reserve the right to cancel the Client’s email access:
-* if Pie Web Limited receive excessive spam complaints about the
-Client
-* it is suspected the Client is using the email account to
-send spam
-* Pie Web Limited suspect the Client is using the service to send
-pornographic, offensive or inappropriate material
-* Invoice payment is not made in accordance with these
-terms. 
-
 Should the Client go into compulsory or involuntary liquidation or cannot pay its debts in the normal course of business, Pie Web Limited reserves the right terminate the Project.
 
 Pie Web Limited reserves the right to terminate a Project with the Client at any time without prior notification if it deems
@@ -189,7 +174,7 @@ the Client to be in breach of these Conditions. Pie Web Limited shall be the sol
 breach. The Client shall not be entitled to refunds of any payments made to Pie Web Limited.
 
 If the Project is terminated by either party then Pie Web Limited will be entitled to payment for work done to that date. The
-invoice for such work must be paid by the Client within 30 days of receipt failing which Pie Web Limited shall be entitled to
+invoice for such work must be paid by the Client within 28 days of receipt failing which Pie Web Limited shall be entitled to
 payment of the full price of the Project forthwith.
 
 ## 15. Web Design and Development#
@@ -239,9 +224,7 @@ The failure by Pie Web Limited to enforce any of these Conditions at any time or
 
 If any provision of this agreement is prohibited by law or judged by a court to be unlawful, void or unenforceable, the provision shall, to the extent required, be severed from this agreement and rendered ineffective as far as possible without modifying the remaining provisions of this agreement, and shall not in any way affect any other circumstances of or the validity or enforcement of this agreement.
 
-##22. Time of the Essence##
 
-Throughout delivery of the Contract, time shall not be of the essence, except where it is expressly stated to apply.
 
 ##23. Rights of Third Parties##
 
