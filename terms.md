@@ -4,28 +4,27 @@ THIS IS A DEVELOPMENT VERSION OF OUR TERMS AND CONDITIONS. OUR CURRENT TERMS AND
 
 ##0. What on earth are we talking about?##
 
-What we refer to in these conditions as ‘The Contract’ means your Support Contract or Development Proposal, and any further documentation directly referenced from within your Support Contract or Development Proposal. ‘The Agreement’ refers to these conditions read in conjunction with the Contract and ‘The Client’ means the individual or business named in the Contract.
-
-‘Project Development’ means work described by the Contract and governed by the Agreement where the Contract incorporates a Development Proposal
-
-‘Support’ means work described by the Contract and governed by the Agreement where the Contract incorporates a Support Contract
-
-All services provided by Pie Web Limited to the Client shall be governed by these Conditions. If there is any conflict between these Conditions and any other agreement made between Pie Web Limited and the Client, these Conditions shall prevail.
+* ‘The Contract’ means your Support Contract or Development Proposal, and any further documentation directly referenced from within your Support Contract or Development Proposal. 
+* ‘The Agreement’ refers to these conditions read in conjunction with the Contract. 
+* ‘The Client’ means the individual or business named in the Contract. 
+* ‘The Project’ means work described by the Contract and governed by the Agreement.
 
 ##1. Before we start working##
 
-Prices stated are valid for 30 days from the date of the Specification. 
+Prices stated are valid for 30 days from the date of the Contract. 
 
 Terms will not be deemed accepted until Pie Web Limited receive the Specification signed by the Client. Pie Web Limited reserve the right to withdraw the terms prior to acceptance by the Client.
+
+All services provided by Pie Web Limited to the Client in relation to delivery of the Project shall be governed by these Conditions. If there is any conflict between these Conditions and any other agreement made between Pie Web Limited and the Client, these Conditions shall prevail.
 
 
 ##2. Project Development##
 
-Subject to payment of the Fees and the provision of any required content by the Client, Pie Web Limited agrees to undertake work described by the Contract using reasonable endeavours and in accordance with the other provisions of this Agreement. Pie Web Limited reserve the right to assign subcontractors to complete part or the whole of the work described by the Contract.
+Subject to payment of the Fees and the provision of any required content by the Client, Pie Web Limited agrees to undertake delivery of the Project using reasonable endeavours and in accordance with the other provisions of this Agreement. Pie Web Limited reserve the right to assign subcontractors to complete part or the whole of the work described by the Contract.
 
-Pie Web Limited shall notify the Client when the Project or any agreed part is available for approval or acceptance testing. The Client shall advise Pie Web Limited of any errors in that version of the Project within 28 days of notification . Pie Web Limited will use reasonable endeavours to correct such errors.
+Pie Web Limited shall notify the Client when the Project or any agreed component is available for approval or acceptance testing. The Client shall advise Pie Web Limited of any errors in that version of the Project within the timeframe specified in the Contract. Pie Web Limited will use reasonable endeavours to correct such errors.
 
-If the Client does not notify Pie Web Limited of any errors within 28 working days of the Project being available for acceptance testing, the Project will be deemed to have been completed to a satisfactory standard and payment will be due in accordance with the section titled 'Payment' in these conditions.
+If the Client does not notify Pie Web Limited of any errors within the timeframe specified in the Contract, the Project or component will be deemed to have been completed to a satisfactory standard and payment will be due in accordance with section 5 of these conditions.
 
 ##3. Amendments##
 
@@ -219,91 +218,39 @@ emerges to have copyright and royalty limitations, the
 Client agrees to permit Pie Web Limited to remove and/or
 replace the file at the Client’s expense to be assessed on
 a quantum meruit basis.
-16. Hosting, Maintenance and Support
-Any website containing creative or functional input by Fat
-Media shall be hosted, maintained and supported by Fat
-Media and:-
-16.1 The Client agrees that Pie Web Limited is not liable for any
-bugs, performance issues or failure of their code.
-16.2 The Client agrees that no liability will be attributable to Fat
-Media in the event of website downtime or the inability to
-operate the web pages or website
-16.3 The Client agrees that Pie Web Limited or its agents will not be
-liable if they fail to register such domain names as
-requested by the Client. Pie Web Limited and its agents will use
-its reasonable endeavours to ensure such registration.
-16.4 Pie Web Limited will quote for any work involved in changing the
-website design or website code in order for it to work with
-updated browser software, domain name or hosting
-changes
-16.5 A hosting invoice will be raised for each website 11
-months after the initial commencement of the hosting.
-Hosting invoices will then be raised on an annual basis.
-17. Search Marketing
-17.1 No warranty is provided by Pie Web Limited in relation to the
-performance of third parties engaged to perform part of
-the Project and Pie Web Limited shall not be liable for any
-failure, action, omission or error on the part of a third
-party provider.
-17.2 The Client agrees that Pie Web Limited is unable to guarantee
-that the Client’s website will achieve a favourable
-position, or any position, within a particular search engine
-and as such, shall not be liable for failure to achieve a
-particular position.
-17.3 The Client agrees that Pie Web Limited shall not be liable for
-any website URLs dropped or excluded by a search
-engine for any reason.
-17.4 The Client agrees that Pie Web Limited do not warrant or
-represent that search engine results reported will be
-correct, accurate, timely, reliable or otherwise due to their
-reliability on third party software.
 
-18. Relationship
-18.1 Nothing in this Agreement shall be deemed to create a
-partnership or joint venture or contract of employment of
-any kind between the parties.
-19. Entire Agreement
-Each party agrees that this Agreement sets out the entire
-agreement between the parties and supersedes all
-previous agreements.
-20. Waiver
-The failure by Pie Web Limited to enforce any of these
-Conditions at any time or for any period will not release or
-exonerate or in any way affect the liability of the Client or
-be a waiver of:
-20.1 these Conditions.
-20.2 the right of Pie Web Limited at any time afterwards to enforce
-each and every clause of these Conditions; or
-20.3 any penalty attached to their performance.
-21. Severance
-If any provision of this agreement is prohibited by law or
-judged by a court to be unlawful, void or unenforceable,
-the provision shall, to the extent required, be severed
-from this agreement and rendered ineffective as far as
-possible without modifying the remaining provisions of
-this agreement, and shall not in any way affect any other
-circumstances of or the validity or enforcement of this
-agreement.
-22. Time of the Essence
-Throughout the Project, time shall not be of the essence,
-except where it is expressly stated to apply.
-23. Rights of Third Parties
-Pursuant to s 1(2)(a) of the Contracts (Rights of Third
-Parties) Act 1999 the parties intend that no term of this
-agreement may be enforced by any person who is not a
-party to this agreement
-24. Assignment
-This Agreement shall be binding upon the parties and
-their respective successors and permitted assignees, and
-references to a party in this agreement shall include its
-successors and permitted assignees.
-25. Governing Law
 
-The construction, validity and performance of these Conditions shall be governed by the laws of England and Wales.
+## 18. Relationship##
 
-This Agreement shall be governed by and interpreted in
-accordance with English law and the English courts shall
-have jurisdiction to resolve any disputes between the
-parties.
+Nothing in this Agreement shall be deemed to create a partnership or joint venture or contract of employment of any kind between the parties.
 
- 
+## 19. Entire Agreement##
+
+Each party agrees that this Agreement sets out the entire agreement between the parties and supersedes all previous agreements.
+
+##20. Waiver##
+The failure by Pie Web Limited to enforce any of these Conditions at any time or for any period will not release or exonerate or in any way affect the liability of the Client or be a waiver of:
+
+* these Conditions.
+* the right of Pie Web Limited at any time afterwards to enforce each and every clause of these Conditions; or
+* any penalty attached to their performance.
+
+##21. Severance##
+
+If any provision of this agreement is prohibited by law or judged by a court to be unlawful, void or unenforceable, the provision shall, to the extent required, be severed from this agreement and rendered ineffective as far as possible without modifying the remaining provisions of this agreement, and shall not in any way affect any other circumstances of or the validity or enforcement of this agreement.
+
+##22. Time of the Essence##
+
+Throughout delivery of the Contract, time shall not be of the essence, except where it is expressly stated to apply.
+
+##23. Rights of Third Parties##
+
+Pursuant to s 1(2)(a) of the Contracts (Rights of Third Parties) Act 1999 the parties intend that no term of this agreement may be enforced by any person who is not a party to this agreement.
+
+##24. Assignment##
+
+This Agreement shall be binding upon the parties and their respective successors and permitted assignees, and references to a party in this agreement shall include its successors and permitted assignees.
+
+##25. Governing Law##
+
+The Agreement, including these terms and conditions, shall be governed by and construed in accordance with the laws of England and Wales. Any dispute arising under these terms and conditions shall be subject to the exclusive jurisdiction of the courts of England and Wales.
