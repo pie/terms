@@ -1,5 +1,3 @@
-THIS IS A DEVELOPMENT VERSION OF OUR SLA. THE CURRENT LIVE SLA CAN BE VIEWED AT https://github.com/pie/docs/blob/gh-pages/sla.md
-
 #Service Level Agreement#
 
 ##What on earth are we talking about?##
