@@ -1,14 +1,16 @@
-# Service Level Agreement for Support Contracts
+# Service Level and Terms for Support Contracts
 
 ## What on earth are we talking about?
 
-What we refer to as waiting time (WT) is the time between us receiving your support request and the time that a live person gets back to you with a view to estimating the amount of time required and scheduling the work.
+Your support contract is your Ongoing Support Contract or the Ongoing Support component of your contract with Pie Web Limited, and any further documentation directly referenced within it.
 
-What we refer to as response time (RT) is the time between us receiving your support request and the time for which work commences on the support request.
+Waiting time (WT) is the time between us receiving your support request and the time that a live person gets back to you with a view to estimating the amount of time required and scheduling the work.
 
-What we refer to as the service level window (SLW) is the time during which somebody will be manning the support desk ready to respond to support requests. Waiting and Response time can not advance outside this period.
+Response time (RT) is the time between us receiving your support request and the time for which work commences on the support request.
 
-What we refer to as a working day (WD) is a time unit comprising 8 hours of SLW time and may span multiple calendar days
+The service level window (SLW) is the time during which somebody will be manning the support desk ready to respond to support requests. Waiting and Response time can not advance outside this period.
+
+A working day (WD) is a time unit comprising 8 hours of SLW time and may span multiple calendar days
 
 ## Service Level Table
 
@@ -41,10 +43,6 @@ What we refer to as a working day (WD) is a time unit comprising 8 hours of SLW 
 * Email: Send email to support@pie.co.de, which will raise a ticket at support.pie.co.de
 * 24/7 telephone: Call +44 (0)20 7873 2224 at any time and request a callback within SLW
 
-## SLA Violations
-
-If we are in violation of the SLA in any given month then you will have the right to receive a 10% discount on your base payment for the following month. In order to receive the discount, you must make a request via an offical support channel within 5WD of the violation. The discount recieved in any month  may not be carried over to any other services, and will not be paid in cash.
-
 ## Support request closure
 
 A support request will be considered to be closed under one of the following conditions.
@@ -75,3 +73,11 @@ All billable time will be tracked and a report supplied accompanying any invoice
 It is possible to arrange for support outside the service level window defined in the SLA. While we will endeavour to accommodate any request, such support cannot be guaranteed and must be pre-arranged and agreed via email by a representative of Pie Web Limited.
 
 Out of hours support will be charged at 2 x rate for Additional Ad-hoc Hours as defined in your support contract, under the same payment terms and detailed separately on any invoice. Out of hours support will not form part of the included Ad-hoc Support Hours.
+
+## Term and Termination
+
+Your support contract has a minimum term of three months, after which we will assume that you wish to continue on a month by month basis. If you decide that you wish to terminate your contract, all you need to do is let us know at any point after your second base charge has been issued and we will make the following base charge your last.
+
+## SLA Violations
+
+If we are in violation of the SLA in any given month then you will have the right to terminate your contract without incurring another base charge. Alternatively you may elect to continue and receive a 10% discount on your base payment for the following month. In order to receive the discount, you must make a request via an offical support channel within 5WD of the violation. The discount recieved in any month  may not be carried over to any other services, and will not be paid in cash.
