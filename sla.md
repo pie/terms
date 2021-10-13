@@ -1,6 +1,6 @@
 #Service Level Agreement#
 
-##What on earth are we talking about?##
+## What on earth are we talking about?
 
 What we refer to as waiting time (WT) is the time between us receiving your support request and the time that a live person gets back to you with a view to estimating the amount of time required and scheduling the work.
 
@@ -10,13 +10,7 @@ What we refer to as the service level window (SLW) is the time during which some
 
 What we refer to as a working day (WD) is a time unit comprising 8 hours of SLW time and may span multiple calendar days
 
-##Support channels##
-
-* Email: Send email to support@pie.co.de or your assigned support email adress, which will raise a ticket in our internal system
-* 24/7 telephone: Call +44 (0)20 7873 2224 at any time to speak to an agent. Calls will be returned within Maximum WT
-* Client support portal: A web-based support portal of your preference
-
-##Service Level Table##
+## Service Level Table
 
 <table>
 	<tr>
@@ -24,34 +18,34 @@ What we refer to as a working day (WD) is a time unit comprising 8 hours of SLW 
 		<th>SLW</th>
 		<th>Maximum WT</th>
 		<th>Maximum RT</th>
-		<th>Support Channels</th>
 	</tr>
 	<tr>
 		<td>Micro</td>
-		<td>0900 - 1700 GMT/BST**</td>
+		<td>0900 - 1700 GMT/BST*</td>
 		<td>1WD</td>
 		<td>5WD</td>
-		<td>email</td>
 	</tr>
 	<tr>
 		<td>Digital Agency Support</td>
-		<td>0830 - 1800 GMT/BST**</td>
+		<td>0830 - 1800 GMT/BST*</td>
 		<td>2 Hours</td>
 		<td>3WD</td>
-		<td>email, client support portal, 24/7 telephone</td>
 	</tr>
 </table>
 
-\*\* Excluding Saturday, Sunday and UK public holidays
+\* Excluding Saturday, Sunday and UK public holidays
 
-##SLA Violations##
+## Support channels
 
-If we are in violation of the SLA in any given month then you will have the right to receive a 10% discount on your base payment for the following month per violation. 
+* Client support portal: A web-based support portal at support.pie.co.de
+* Email: Send email to support@pie.co.de, which will raise a ticket at support.pie.co.de
+* 24/7 telephone: Call +44 (0)20 7873 2224 at any time and request a callback within SLW
 
-In order to receive the discount, you must make a request via an offical support channel within 5WD of the violation. 
-The total discount recieved in any month may not exceed 100%, may not be carried over to any other services, and will not be paid in cash.
+## SLA Violations
 
-##Support request closure##
+If we are in violation of the SLA in any given month then you will have the right to receive a 10% discount on your base payment for the following month. In order to receive the discount, you must make a request via an offical support channel within 5WD of the violation. The discount recieved in any month  may not be carried over to any other services, and will not be paid in cash.
+
+## Support request closure
 
 A support request will be considered to be closed under one of the following conditions.
 
@@ -61,7 +55,7 @@ A support request will be considered to be closed under one of the following con
 
 In cases 2 and 3 above, we will follow up with you on or around 5WD and you will receive notification when the ticket is resolved
 
-##Billable vs. Unbillable Time##
+## Billable vs. Unbillable Time
 
 The following will be regarded as billable time:
 
@@ -76,19 +70,8 @@ The following will be regarded as unbillable time:
 
 All billable time will be tracked and a report supplied accompanying any invoice
 
-##Out-of-hours Support##
+## Out-of-hours Support
 
-It is possible to arrange for support outside the service level window defined in the SLA. 
-
-While we will endeavour to accommodate any request, such support cannot be guaranteed and must be pre-arranged and agreed via email by a representative of Pie Web Limited.
+It is possible to arrange for support outside the service level window defined in the SLA. While we will endeavour to accommodate any request, such support cannot be guaranteed and must be pre-arranged and agreed via email by a representative of Pie Web Limited.
 
 Out of hours support will be charged at 2 x rate for Additional Ad-hoc Hours as defined in your support contract, under the same payment terms and detailed separately on any invoice. Out of hours support will not form part of the included Ad-hoc Support Hours.
-
-
-
-
-
-
-
-
-
