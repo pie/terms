@@ -78,6 +78,10 @@ Out of hours support will be charged at 2 x rate for Additional Ad-hoc Hours as 
 
 Your support contract has a minimum term of three months, after which we will assume that you wish to continue on a month by month basis. If you decide that you wish to terminate your contract, all you need to do is let us know at any point after your second base charge has been issued and we will make the following base charge your last.
 
+## Outstanding payments
+
+If payment is not received within the due date of any invoice, we reserve the right to refuse to undertake any further work for you until your account is back in good standing. During such a period, unless informed otherwise by yourselves we will continue to generate monthly invoices including a base charge component.
+
 ## SLA Violations
 
 If we are in violation of the SLA in any given month then you will have the right to terminate your contract without incurring another base charge. Alternatively you may elect to continue and receive a 10% discount on your base payment for the following month. In order to receive the discount, you must make a request via an offical support channel within 5WD of the violation. The discount recieved in any month  may not be carried over to any other services, and will not be paid in cash.

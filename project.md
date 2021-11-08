@@ -30,9 +30,7 @@ The scope of your development contract is restricted to that functionality descr
 
 You will be required to agree the amended or separate contract before work on the amended scope can commence.
 
-## Termination
-You may request in writing that we cancel your development contract at any time.
+## Outstanding payments
+If payment is not received within the due date of any invoice, we reserve the right to refuse to undertake any further work for you until your account is back in good standing. 
 
-We reserve the right without notice to cancel, reject, refuse sale to or work with a Client without reason for such rejection or refusal.
-
-If your development contract is terminated by either party then we will be entitled to payment for work already undertaken. The invoice for such work must be paid by within 30 days of receipt.
+We also reserve the right to remove any work done from any computer systems and the internet or remove public access to those systems if invoice payments remain outstanding. Such an action does not relieve yout of your obligation to pay the due amount. You also agree to be liable for any reasonable legal expenses and third party collection agency fees in the enforcement of this condition.
