@@ -73,8 +73,8 @@ The following will be regarded as unbillable time:
 
 All billable time will be tracked and a report supplied accompanying any invoice
 
-## Overages and limitations
-Should we exceed your included hours in any given month, we will inform you of this fact in the relevant support ticket and you will have the option to place your account on hold until the following month. Any overages incurred up to that point will be considered billable.
+## If you need a bit more time...
+Should you exceed your included hours in any given month, we will inform you of this fact in the relevant support ticket and you will have the option to place your account on hold until the following month. Any overages incurred up to that point will be considered billable.
 
 Your account will be limited to twice the number of your included hours in any given month, and we will inform you immediately if this amount is reached. Unless specifically authorised by yourself, any hours worked beyond this amount will be considered unbillable. Once authorised, any work beyond this amount will not be bound by the terms of this SLA.
 
