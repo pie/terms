@@ -17,15 +17,20 @@ If work or service delivery has already begun or any costs have been incurred th
 
 ## What do both parties agree to?
 
-As our client, you agree that:
-
+As our client:
+* You have the power and ability to enter into this contract on behalf of your company or organization
+* You agree to provide us with everything that we need to complete work on your behalf as and when we need it, and in the format that we ask
+* You agree to review our work, provide feedback and sign-off approval in a timely manner
+* You agree to stick to the payment schedule set out in this proposal
 * The compliance with any laws and legal requirements of any work that we do for you is wholly your responsibility.
 * You will not resell or distribute our work in any form unless we specifically tell you that it's OK to do so.
 * You will keep any passwords or access details we share with you confidential at all times.
 
+As the service provider, we agree that:
 
-
-
+* We have the experience and ability to perform the services listed in our contract
+* We agree to carry out those services in a prompt and professional manner
+* We agree to advise you of any unforeseen issues that may arise affecting delivery times or cost without delay and with a proposal for resolution
 
 ## A bit about copyright
 
@@ -41,9 +46,9 @@ We love to show off our work and share what we have learned with other people, s
 
 ## A bit of legal stuff
 
-We are specialists in what we do, but we are human os we can't guarantee that our work will always be error-free. We can't be liable to you or any third party for damages, including lost profits, lost savings or other incidental, consequential or special damages arising out of a missed deadline, the operation of or inability to operate a website or any other web pages, even if you have advised us of the possibilities of such damages.
+We will always endeavor to meet any deadlines upon which we agree and we are specialists in what we do, but we are human so we can't guarantee that our work will always be error-free and that we won't come up against unforeseen problems. As such, we can't be liable to you or any third party for damages, including lost profits, lost savings or other incidental, consequential or special damages arising out of a missed deadline, the operation of or inability to operate a web site or any other web pages, even if you have advised us of the possibilities of such damages.
 
-All services we provide to you are governed by these terms and conditions. If there is any conflict between them and any other agreement we make, then these terms and conditions will take precedence.
+All services we provide to you are governed by these terms and conditions. Any changes to these terms must be agreed by both parties in writing.
 
 If we don't happen to enforce any of these terms and conditions at any time or for any period, that does not mean that they do not apply and does not in any way exonerate you or affect your liability. It also does not waive our right to enforce these conditions at any time afterwards.
 
