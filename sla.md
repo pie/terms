@@ -78,7 +78,7 @@ Should you exceed your included hours in any given month, we will inform you of 
 
 Your account will be limited to twice the number of your included hours in any given month, and we will inform you immediately if this amount is reached. Unless specifically authorised by yourself, any hours worked beyond this amount will be considered unbillable. Once authorised, any work beyond this amount will not be bound by the terms of this SLA.
 
-## Out-of-hours support
+## If you need us out-of-hours...
 It is possible to arrange for support outside the service level window defined in the SLA. While we will endeavour to accommodate any request, such support cannot be guaranteed and must be pre-arranged and agreed via email by a representative of Pie Web Limited.
 
 Out of hours support will be charged at 2 x rate for Additional Ad-hoc Hours as defined in your support contract, under the same payment terms and detailed separately on any invoice. Out of hours support will not form part of the included Ad-hoc Support Hours.
