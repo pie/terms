@@ -41,7 +41,7 @@ We love to show off our work and share what we have learned with other people, s
 
 ## A bit of legal stuff
 
-We are specialists in what we do, but we are human so we can't guarantee that our work will always be error-free. We can't be liable to you or any third party for damages, including lost profits, lost savings or other incidental, consequential or special damages arising out of a missed deadline, the operation of or inability to operate a web site or any other web pages, even if you have advised us of the possibilities of such damages.
+We will always endeavor to meet any deadlines upon which we agree and we are specialists in what we do, but we are human so we can't guarantee that our work will always be error-free and that we won't come up against unforeseen problems. As such, we can't be liable to you or any third party for damages, including lost profits, lost savings or other incidental, consequential or special damages arising out of a missed deadline, the operation of or inability to operate a web site or any other web pages, even if you have advised us of the possibilities of such damages.
 
 All services we provide to you are governed by these terms and conditions. Any changes to these terms must be agreed by both parties in writing.
 
