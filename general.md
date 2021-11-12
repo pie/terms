@@ -15,7 +15,7 @@ We will always accept a request for termination if work has not yet begun, no se
 
 If work or service delivery has already begun or any costs have been incurred then you agree to pay us for that work, those services or those costs. You will not be entitled to refunds of any payments already made.
 
-## What Do Both Parties Agree To?
+## What do both parties agree to?
 
 As our client, you agree that:
 
@@ -27,7 +27,7 @@ As our client, you agree that:
 
 
 
-## A Bit About Copyright
+## A bit about copyright
 
 You guarantee that you own any elements of text, graphics, photos, designs, trademarks, or other artwork / resources that you provide, or that you have permission to use them.
 
@@ -39,9 +39,9 @@ https://tldrlegal.com/license/gnu-general-public-license-v3-(gpl-3)
 
 We love to show off our work and share what we have learned with other people, so we reserve the right to display and link to any work as part of our portfolio and to write about the projects on web sites, in magazine articles and in books about web design / development.
 
-## A bit of Legal Stuff
+## A bit of legal stuff
 
-We can't guarantee that our work will always be error-free and so we can't be liable to you or any third party for damages, including lost profits, lost savings or other incidental, consequential or special damages arising out of a missed deadline, the operation of or inability to operate a web site or any other web pages, even if you have advised us of the possibilities of such damages.
+We are specialists in what we do, but we are human os we can't guarantee that our work will always be error-free. We can't be liable to you or any third party for damages, including lost profits, lost savings or other incidental, consequential or special damages arising out of a missed deadline, the operation of or inability to operate a web site or any other web pages, even if you have advised us of the possibilities of such damages.
 
 All services we provide to you are governed by these terms and conditions. If there is any conflict between them and any other agreement we make, then these terms and conditions will take precedence.
 
