@@ -34,7 +34,7 @@ Rollover is the amount of time from any given month that, if unused, can be used
 	<tr>
 		<td>Digital Agency Support</td>
 		<td>0830 - 1800 GMT/BST*</td>
-		<td>2 Hours</td>
+		<td>1WD</td>
 		<td>3WD</td>
 		<td>5 hours</td>
 	</tr>
