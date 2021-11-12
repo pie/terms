@@ -12,6 +12,8 @@ The service level window (SLW) is the time during which somebody will be manning
 
 A working day (WD) is a time unit comprising 8 hours of SLW time and may span multiple calendar days
 
+Rollover is the amount of time from any given month that, if unused, can be used in the following month at no extra cost.
+
 ## Service level table
 
 <table>
@@ -71,8 +73,12 @@ The following will be regarded as unbillable time:
 
 All billable time will be tracked and a report supplied accompanying any invoice
 
-## Out-of-hours support
+## Overages and limitations
+Should we exceed your included hours in any given month, we will inform you of this fact in the relevant support ticket and you will have the option to place your account on hold until the following month. Any overages incurred up to that point will be considered billable.
 
+Your account will be limited to twice the number of your included hours in any given month, and we will inform you immediately if this amount is reached. All hours worked beyond this amount will be considered unbillable unless specifically authorised by yourself and will not be bound by the terms of theis SLA.
+
+## Out-of-hours support
 It is possible to arrange for support outside the service level window defined in the SLA. While we will endeavour to accommodate any request, such support cannot be guaranteed and must be pre-arranged and agreed via email by a representative of Pie Web Limited.
 
 Out of hours support will be charged at 2 x rate for Additional Ad-hoc Hours as defined in your support contract, under the same payment terms and detailed separately on any invoice. Out of hours support will not form part of the included Ad-hoc Support Hours.
