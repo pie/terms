@@ -20,18 +20,21 @@ A working day (WD) is a time unit comprising 8 hours of SLW time and may span mu
 		<th>SLW</th>
 		<th>Maximum WT</th>
 		<th>Maximum RT</th>
+		<th>Maximum Rollover</th>
 	</tr>
 	<tr>
 		<td>Micro</td>
 		<td>0900 - 1700 GMT/BST*</td>
 		<td>1WD</td>
 		<td>5WD</td>
+		<td>0 hours</td>
 	</tr>
 	<tr>
 		<td>Digital Agency Support</td>
 		<td>0830 - 1800 GMT/BST*</td>
 		<td>2 Hours</td>
 		<td>3WD</td>
+		<td>5 hours</td>
 	</tr>
 </table>
 
@@ -73,6 +76,8 @@ All billable time will be tracked and a report supplied accompanying any invoice
 It is possible to arrange for support outside the service level window defined in the SLA. While we will endeavour to accommodate any request, such support cannot be guaranteed and must be pre-arranged and agreed via email by a representative of Pie Web Limited.
 
 Out of hours support will be charged at 2 x rate for Additional Ad-hoc Hours as defined in your support contract, under the same payment terms and detailed separately on any invoice. Out of hours support will not form part of the included Ad-hoc Support Hours.
+
+## Unused Hours
 
 ## Term and Termination
 
