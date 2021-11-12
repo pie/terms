@@ -12,7 +12,7 @@ The service level window (SLW) is the time during which somebody will be manning
 
 A working day (WD) is a time unit comprising 8 hours of SLW time and may span multiple calendar days
 
-## Service Level Table
+## Service level table
 
 <table>
 	<tr>
@@ -53,7 +53,7 @@ A support request will be considered to be closed under one of the following con
 
 In cases 2 and 3 above, we will follow up with you on or around 5WD and you will receive notification when the ticket is resolved
 
-## Billable vs. Unbillable Time
+## Billable vs. unbillable time
 
 The following will be regarded as billable time:
 
@@ -68,13 +68,13 @@ The following will be regarded as unbillable time:
 
 All billable time will be tracked and a report supplied accompanying any invoice
 
-## Out-of-hours Support
+## Out-of-hours support
 
 It is possible to arrange for support outside the service level window defined in the SLA. While we will endeavour to accommodate any request, such support cannot be guaranteed and must be pre-arranged and agreed via email by a representative of Pie Web Limited.
 
 Out of hours support will be charged at 2 x rate for Additional Ad-hoc Hours as defined in your support contract, under the same payment terms and detailed separately on any invoice. Out of hours support will not form part of the included Ad-hoc Support Hours.
 
-## Term and Termination
+## Term and termination
 
 Your support contract has a minimum term of three months, after which we will assume that you wish to continue on a month by month basis. If you decide that you wish to terminate your contract, all you need to do is let us know at any point after your second base charge has been issued and we will make the following base charge your last.
 
@@ -82,6 +82,6 @@ Your support contract has a minimum term of three months, after which we will as
 
 If payment is not received within the due date of any invoice, we reserve the right to refuse to undertake any further work for you until your account is back in good standing. During such a period, unless informed otherwise by yourselves we will continue to generate monthly invoices including a base charge component.
 
-## SLA Violations
+## SLA violations
 
 If we are in violation of the SLA in any given month then you will have the right to terminate your contract without incurring another base charge. Alternatively you may elect to continue and receive a 10% discount on your base payment for the following month. In order to receive the discount, you must make a request via an offical support channel within 5WD of the violation. The discount recieved in any month  may not be carried over to any other services, and will not be paid in cash.
