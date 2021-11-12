@@ -91,6 +91,6 @@ Your support contract has a minimum term of three months, after which we will as
 
 If payment is not received within the due date of any invoice, we reserve the right to refuse to undertake any further work for you until your account is back in good standing. During such a period, unless informed otherwise by yourselves we will continue to generate monthly invoices including a base charge component.
 
-## SLA violations
+## If something goes wrong
 
 If we are in violation of the SLA in any given month then you will have the right to terminate your contract without incurring another base charge. Alternatively you may elect to continue and receive a 10% discount on your base payment for the following month. In order to receive the discount, you must make a request via an offical support channel within 5WD of the violation. The discount recieved in any month  may not be carried over to any other services, and will not be paid in cash.
