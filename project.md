@@ -4,7 +4,7 @@
 # Terms for Project Development
 
 ## What on earth are we talking about?
-Your development contract is your Project Development Contract or the Project Development component of your contract with Pie Web Limited, and any further documentation directly referenced within it.
+If we are undertaking project development for you, then these terms will form part of our contract.
 
 ## Project commencement
 Your development contract will be issued alongside an invoice for a relevant Starter Payment. Development can not begin until the Starter Payment has been cleared to Pie Web Limited.
