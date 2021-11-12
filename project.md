@@ -7,11 +7,9 @@
 If we are undertaking project development for you, then these terms will form part of our contract.
 
 ## Project commencement
-Your development contract will be issued alongside an invoice for a relevant Starter Payment. Development can not begin until the Starter Payment has been cleared to Pie Web Limited.
+Your development contract will be issued alongside an invoice for a relevant Starter Payment. Development can not begin until the Starter Payment has been cleared to Pie Web Limited and all the required assets, information and materials have been made available to us.
 
-Unless specifically stated otherwise within your development contract, development is scheduled to begin with immediate effect.
-
-Any delay in the signing or payment of the Starter Payment invoice, or delay in the supply of any required designs, information or materials may result in delays to the project or the project needing to be completely rescheduled.
+Unless specifically stated otherwise within your development contract, development is scheduled to begin with immediate effect. Any delay in the signing or payment of the Starter Payment invoice, or delay in the supply of any required designs, information or materials may result in delays to the project or the project needing to be completely rescheduled.
 
 ## Project delivery
 Throughout delivery of the Project, time shall not be of the essence, except where specifically stated in your development contract.
