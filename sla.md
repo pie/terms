@@ -44,7 +44,7 @@ Rollover is the amount of time from any given month that, if unused, can be used
 
 ## Support channels
 
-* Client support portal: A web-based support portal at support.pie.co.de
+* Client support portal: A web-based support portal at https://support.pie.co.de
 * Email: Send email to support@pie.co.de, which will raise a ticket at support.pie.co.de
 * 24/7 telephone: Call +44 (0)20 7873 2224 at any time and request a callback within SLW
 
