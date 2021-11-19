@@ -1,6 +1,6 @@
 # Pie Web Limited Terms & Conditions
 
-* [General Terms of Business](/terms/general)
-* [Service Level & Terms for Support](/terms/sla)
-* [Terms for Web Hosting](/terms/hosting)
-* [Terms for Project Development](/terms/project)
+* [General Terms of Business](/general)
+* [Service Level & Terms for Support](/sla)
+* [Terms for Web Hosting](/hosting)
+* [Terms for Project Development](/project)
