@@ -10,6 +10,9 @@ Your hosting contract is your Ongoing Web Hosting Contract or the Web Hosting Su
 ## WP Engine as a provider
 Our website hosting is provided by WP Engine and we are able to pass on the terms afforded by their Service Level Agreement (SLA) at https://wpengine.com/legal/sla/
 
+## Overages
+Each install has a limit of 10GB storage and 25,000 monthly unique visitors. Overages are charged at the rate defined in your hosting contract, but if it comes to the point where this rule needs to apply we will happily work with you to help manage the storage and visitor levels to help minimise these costs.
+
 ## Support provision
 Our website hosting is offered without any support package. In the absence of a separate Ongoing Support Contract or Ongoing Support component within your hosting contract we encourage you to make use of the support provided directly by WP Engine via https://my.wpengine.com including 24/7 live chat, documentation and their own dedicated support desk.
 
