@@ -1,6 +1,3 @@
-### You are viewing a pre-live document
-> current live version at http://terms.pie.co.de/sla
-
 # General Terms of Business
 
 ## Before we start working
