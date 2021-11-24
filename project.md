@@ -1,5 +1,5 @@
 ### You are viewing a pre-live document
-> current live version at http://terms.pie.co.de/sla
+> current live version at http://terms.pie.co.de/
 
 # Terms for Project Development
 
@@ -31,6 +31,6 @@ The scope of your development contract is restricted to that functionality descr
 You will be required to agree the amended or separate contract before work on the amended scope can commence.
 
 ## Outstanding payments
-If payment is not received within the due date of any invoice, we reserve the right to refuse to undertake any further work for you until your account is back in good standing. 
+If payment is not received within the due date of any invoice, we reserve the right to refuse to undertake any further work for you until your account is back in good standing.
 
 We also reserve the right to remove any work done from any computer systems and the internet or remove public access to those systems if invoice payments remain outstanding. Such an action does not relieve yout of your obligation to pay the due amount. You also agree to be liable for any reasonable legal expenses and third party collection agency fees in the enforcement of this condition.

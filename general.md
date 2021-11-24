@@ -1,5 +1,5 @@
 ### You are viewing a pre-live document
-> current live version at http://terms.pie.co.de/sla
+> current live version at http://terms.pie.co.de/
 
 # General Terms of Business
 
