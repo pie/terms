@@ -13,7 +13,9 @@ Response time (RT) is the time between us receiving your support request and the
 
 The service level window (SLW) is the time during which somebody will be manning the support desk ready to respond to support requests. Waiting and Response time can not advance outside this period.
 
-A working day (WD) is a time unit comprising 8 hours of SLW time and may span multiple calendar days
+A working day (WD) is a time unit comprising 8 hours of SLW time and may span multiple calendar days.
+
+Base payment is the number of hours which must be pre-paid every month.
 
 Rollover is the amount of time from any given month that, if unused, can be used in the following month at no extra cost.
 
@@ -25,6 +27,7 @@ Rollover is the amount of time from any given month that, if unused, can be used
 		<th>SLW</th>
 		<th>Maximum WT</th>
 		<th>Maximum RT</th>
+		<th>Base Payment</th>
 		<th>Maximum Rollover</th>
 	</tr>
 	<tr>
@@ -32,6 +35,7 @@ Rollover is the amount of time from any given month that, if unused, can be used
 		<td>0900 - 1700 GMT/BST*</td>
 		<td>1WD</td>
 		<td>5WD</td>
+		<td>1.5 hours</td>
 		<td>0 hours</td>
 	</tr>
 	<tr>
@@ -39,6 +43,7 @@ Rollover is the amount of time from any given month that, if unused, can be used
 		<td>0830 - 1800 GMT/BST*</td>
 		<td>1WD</td>
 		<td>3WD</td>
+		<td>10 hours</td>
 		<td>5 hours</td>
 	</tr>
 </table>
