@@ -15,7 +15,7 @@ The service level window (SLW) is the time during which somebody will be manning
 
 A working day (WD) is a time unit comprising 8 hours of SLW time and may span multiple calendar days.
 
-Base payment is the number of hours which must be pre-paid every month.
+Base payment is the number of hours which are included with your base payment every month.
 
 Rollover is the amount of time from any given month that, if unused, can be used in the following month at no extra cost.
 
@@ -31,7 +31,7 @@ Rollover is the amount of time from any given month that, if unused, can be used
 		<th>Maximum Rollover</th>
 	</tr>
 	<tr>
-		<td>Micro</td>
+		<td>Micro (Legacy)</td>
 		<td>0900 - 1700 GMT/BST*</td>
 		<td>1WD</td>
 		<td>5WD</td>
@@ -39,12 +39,36 @@ Rollover is the amount of time from any given month that, if unused, can be used
 		<td>0 hours</td>
 	</tr>
 	<tr>
-		<td>Digital Agency Support</td>
+		<td>Digital Agency Support (Legacy)</td>
 		<td>0830 - 1800 GMT/BST*</td>
 		<td>1WD</td>
 		<td>3WD</td>
 		<td>10 hours</td>
 		<td>5 hours</td>
+	</tr>
+		<tr>
+		<td>Essentials Tier</td>
+		<td>0830 - 1800 GMT/BST*</td>
+		<td>1WD</td>
+		<td>3WD</td>
+		<td>5 hours</td>
+		<td>5 hours</td>
+	</tr>
+		<tr>
+		<td>Advantage Tier</td>
+		<td>0830 - 1800 GMT/BST*</td>
+		<td>1WD</td>
+		<td>3WD</td>
+		<td>20 hours</td>
+		<td>20 hours</td>
+	</tr>
+		<tr>
+		<td>Premium Tier</td>
+		<td>0830 - 1800 GMT/BST*</td>
+		<td>1WD</td>
+		<td>3WD</td>
+		<td>72 hours</td>
+		<td>72 hours</td>
 	</tr>
 </table>
 
@@ -53,8 +77,9 @@ Rollover is the amount of time from any given month that, if unused, can be used
 ## Support channels
 
 * Client support portal: A web-based support portal at https://support.pie.co.de
-* Email: Send email to support@pie.co.de, which will raise a ticket at support.pie.co.de
+* Email: Send email to support@pie.co.de, which will raise a ticket at https://support.pie.co.de
 * 24/7 telephone: Call +44 (0)20 7873 2224 at any time and request a callback within SLW
+* Instant message: Contact via a dedicated Slack channel for responses within SLW (Premium Tier only)
 
 ## Support request closure
 
