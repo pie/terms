@@ -1,6 +1,3 @@
-### You are viewing a pre-live document
-> current live version at http://terms.pie.co.de/
-
 # Service Level and Terms for Support Contracts
 
 ## What on earth are we talking about?

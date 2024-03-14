@@ -1,6 +1,3 @@
-### You are viewing a pre-live document
-> current live version at http://terms.pie.co.de/
-
 # Terms for Hosting Contracts
 
 ## What on earth are we talking about?
