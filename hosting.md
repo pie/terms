@@ -6,14 +6,11 @@
 ## What on earth are we talking about?
 Your hosting contract is your Ongoing Web Hosting Contract or the Web Hosting Support component of your contract with Pie Web Limited, and any further documentation directly referenced within it.
 
-## WP Engine as a provider
-Our website hosting is provided by WP Engine and we are able to pass on the terms afforded by their Service Level Agreement (SLA) at https://wpengine.com/legal/sla/
-
-## Overages
-Each install has a limit of 10GB storage, 50GB monthly bandwidth and 25,000 monthly unique visitors. Overages are charged at the rate defined in your hosting contract, but if it comes to the point where this rule needs to apply we will happily work with you to help manage the storage and visitor levels to help minimise these costs as much as possible.
+## WPMUDev as a provider
+Our website hosting is provided by WPMUDev and we are able to pass on the terms afforded by their 99.9% uptime guarantee at https://wpmudev.com/hosting/
 
 ## Support provision
-Our website hosting is offered without any support package. In the absence of a separate Ongoing Support Contract or Ongoing Support component within your hosting contract we encourage you to make use of the support provided directly by WP Engine via https://my.wpengine.com including 24/7 live chat, documentation and their own dedicated support desk.
+Our Just Hosting website hosting is offered without any support package for development, and only covers issues related directly to the hosting platform or core WordPress software. In the absence of a separate Ongoing Support Contract or Ongoing Support component within your hosting contract we encourage you to make use of our ad-hoc support channel available at https://support.pie.co.de
 
 ## Outstanding payments
 If payment is not received within the due date of any invoice, we reserve the right to remove public access to the related hosting environment until such time as your account is brought back into good standing.
