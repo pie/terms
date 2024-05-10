@@ -15,6 +15,17 @@ We will always accept a request for termination if work has not yet begun, no se
 
 If work or service delivery has already begun or any costs have been incurred then you agree to pay us for that work, those services or those costs. You will not be entitled to refunds of any payments already made.
 
+## Outstanding payments
+
+If payment is not received within 30 days of the due date of any invoice, we reserve the right to:
+ 
+* Refuse to undertake any further work for you until your account is back in good standing. 
+* Remove public access to any related hosting environment until your account is brought back into good standing.
+* Remove any work done from any computer systems and the internet or remove public access to those systems until your account is brought back into good standing.
+* Apply a late payment fee of 8% interest per month, accruing daily until your account is brought back into good standing.
+* Engage a third party collection agency with subsequent charges added to your outstanding balance.
+* Hold you liable for any reaasonable legal expenses incurred in the enforcement of this condition.
+ 
 ## What do both parties agree to?
 
 As our client:

@@ -122,7 +122,7 @@ Your support contract has a minimum term of three months, after which we will as
 
 ## Outstanding payments
 
-If payment is not received within the due date of any invoice, we reserve the right to refuse to undertake any further work for you until your account is back in good standing. During such a period, unless informed otherwise by yourselves we will continue to generate monthly invoices including a base charge component.
+During any period where invoices remain outstanding, unless requested otherwise by yourselves we will continue to generate monthly invoices including a base charge component.
 
 ## If something goes wrong
 
