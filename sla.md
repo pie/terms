@@ -1,9 +1,9 @@
 ---
-title: Project Development Terms
+title: WordPress Development Strongarm Terms
 description: These terms apply to all support-based work delivered by PIE Code.
 ---
 
-## WordPress Development Strongarm Support Terms
+## WordPress Development Strongarm Terms
 
 These terms apply to your **Support Contract**, which may also be referred to as your **WordPress Development Strongarm** plan, the **Ongoing Support** component of a wider agreement, or as otherwise named in your proposal, contract or agreement.
 
