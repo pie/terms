@@ -88,9 +88,11 @@ We can accommodate out-of-hours support requests with advance notice. This servi
 
 ## 8. Term and Termination
 
-Support contracts have a minimum term of **three months**. After that, they continue month to month unless terminated.
+Support contracts carry a minimum commitment of three months. After that, they continue month-to-month unless terminated.
 
-To terminate, simply notify us any time after your second Base Hours invoice. We’ll treat your next invoice as the final one.
+To cancel your Support Contract, you can notify us at any point after your second Base Hours invoice. We’ll treat your next scheduled invoice as the final one.
+
+**Note:** Support Contracts are non-refundable, and this termination clause applies in addition to our general terms of business.
 
 ## 9. Late Payment
 
