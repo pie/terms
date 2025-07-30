@@ -1,8 +1,7 @@
 # General Terms of Business
 
 _Last updated: [30/07/2025]_
-
-PIE Code is a trading name of Pie Web Limited (Company No. 07995302), registered in England and Wales. These terms apply to all services provided by Pie Web Limited under the PIE Code brand, including support, hosting, and project-based development, unless otherwise agreed in writing.
+> These terms apply to all services provided by PIE Code, a trading name of Pie Web Limited (Company No. 07995302) including support, hosting, and project-based development, unless otherwise agreed in writing.
 
 ---
 
@@ -58,7 +57,7 @@ We may showcase work we've done for you in our portfolio or write about the proj
 
 We treat all access credentials, business information, and data you share with us as confidential.
 
-- You agree not to share any credentials or sensitive data unless necessary for us to carry out our work.
+- We request that you do not to share any credentials or sensitive data with us unless necessary for us to carry out our work.
 - We store credentials securely in a password manager and retain them unless you request deletion.
 - If you no longer wish us to retain access, it's your responsibility to change or revoke any passwords or credentials after work is complete.
 - We will take reasonable technical and organisational measures to safeguard all data and credentials you provide.

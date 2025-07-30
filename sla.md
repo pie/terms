@@ -57,26 +57,26 @@ By raising a support request, you authorise us to spend up to **1 hour** investi
 If we believe a request will exceed 1 hour:
 
 - We’ll notify you with a time estimate
-- We won’t continue until you’ve explicitly approved the work
+- We won’t continue until you’ve explicitly approved the work through one of our nominated support channels
 
 This threshold resets each time additional hours are required. No further billable time will be spent without your explicit approval.
 
-Without explicit approval, your monthly usage will be limited to your Base Hours. If that limit is reached, we’ll stop work unless you authorise additional hours. Any work beyond the authorised maximum will not be billed unless explicitly approved.
+Without explicit written approval, your monthly usage will be limited to your Base Hours. If that limit is reached, we’ll stop work unless you authorise additional hours. Any work beyond the authorised maximum will not be billed unless explicitly approved through one of our nominated support channels.
 
 ## 6. Support Request Closure and Backlog
 
 If you are on the **Essentials**, **Advantage**, or **Premium** tier, you have access to a **backlog** for lower-priority or future-scheduled requests.
 
-If we’ve responded to a ticket and do not hear back from you within **10 Working Days (WD)**, we will:
+If we’ve responded to a ticket and do not hear back from you, we will:
 
-- Send a reminder after **5 Working Days**
-- Then either:
+- Send a reminder after **5WD**
+- If we have not heard from you within **10WD** of our last reply, we will either:
   - **Move the request to your backlog** (Essentials+ clients), or
   - **Close the request** (Ad-hoc clients)
 
 Backlogged items remain available for prioritisation during your scheduled calls or when you're ready to proceed.
 
-If we request more information from you and do not receive a response within **10 Working Days**, the same process applies: a reminder at 5WD, followed by backlog or closure at 10WD, depending on your tier.
+If we request more information from you and do not receive a response, the same process applies: a reminder at 5WD, followed by backlog or closure at 10WD, depending on your tier.
 
 ## 7. Out-of-Hours Support
 
