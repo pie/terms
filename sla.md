@@ -1,4 +1,4 @@
-# Service Level and Terms for Support
+# Service Level and Terms for Support Contracts
 
 _Last updated: [30/07/2025]_
 > These terms apply to all support-based services provided by PIE Code, a trading name of Pie Web Limited (Company No. 07995302), which may also be referred to as your **WordPress Development Strongarm** plan, the **Ongoing Support** component of a wider agreement, or as otherwise named in your proposal, contract or agreement. They should be read alongside our [General Terms of Business](/general), which apply to all services unless explicitly overridden here.
@@ -88,9 +88,11 @@ We can accommodate out-of-hours support requests with advance notice. This servi
 
 ## 8. Term and Termination
 
-Support contracts have a minimum term of **three months**. After that, they continue month to month unless terminated.
+Support contracts carry a minimum commitment of three months. After that, they continue month-to-month unless terminated.
 
-To terminate, simply notify us any time after your second Base Hours invoice. We’ll treat your next invoice as the final one.
+To cancel your Support Contract, you can notify us at any point after your second Base Hours invoice. We’ll treat your next scheduled invoice as the final one.
+
+**Note:** Support Contracts are non-refundable, and this termination clause applies in addition to our general terms of business.
 
 ## 9. Late Payment
 

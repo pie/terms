@@ -15,9 +15,11 @@ Any estimates or proposals we provide are valid for 30 days. If you approve work
 
 You can request to terminate your contract at any time.
 
-- If no work has begun and no costs have been incurred, we will cancel the contract without charge.
-- If work has started or we’ve incurred costs on your behalf, you agree to pay for the time, services, and expenses delivered up to that point.
-- Payments already made are non-refundable.
+If no work has begun and no costs have been incurred, we will cancel the contract without charge.  
+If work has started or we’ve incurred costs on your behalf, you agree to pay for the time, services, and expenses delivered up to that point.  
+Payments already made are non-refundable.
+
+**Note:** Specific services (such as Support Contracts) may carry a minimum term or different cancellation process. See the relevant service terms for details.
 
 ---
 
