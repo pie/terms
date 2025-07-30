@@ -33,7 +33,7 @@ You can raise support requests through the following channels:
 - **Support Portal:** [https://support.pie.co.de](https://support.pie.co.de)
 - **Email:** [support@pie.co.de](mailto:support@pie.co.de)
 - **Phone:** +44 (0)20 7873 2224 — request a callback within SLW
-- **Slack:** Available to clients on Essentials tier and above
+- **Slack:** A dedicated Slack channel on our Slack server/servers
 
 Essentials clients are entitled to a monthly call with a Lead Developer. Advantage and Premium clients receive weekly calls.
 
