@@ -1,17 +1,11 @@
----
-title: Project Development Terms
-description: These terms apply to all project-based work delivered by PIE Code.
----
-
-## Project Development Terms
+# Project Development Terms
 
 _Last updated: [30/07/2025]_
-
-These terms apply to all project-based development services provided by Pie Web Limited under the PIE Code brand. They should be read alongside our [General Terms of Business](/general), which form part of your agreement with us.
+> These terms apply to all project-based services provided by PIE Code, a trading name of Pie Web Limited (Company No. 07995302). They should be read alongside our [General Terms of Business](/general), which form part of your agreement with us.
 
 ---
 
-### 1. Definitions
+## 1. Definitions
 
 - **Project**: Any scoped development work agreed under a signed contract or proposal.
 - **Deposit**: A non-refundable 2.5% payment required to secure a scheduled project slot.
@@ -21,7 +15,7 @@ These terms apply to all project-based development services provided by Pie Web 
 
 ---
 
-### 2. Booking and Scheduling
+## 2. Booking and Scheduling
 
 For most projects, the full upfront requirement is split into two parts:
 
@@ -34,7 +28,7 @@ In some cases—such as when work is due to commence immediately and scheduling 
 
 ---
 
-### 3. Project Commencement
+## 3. Project Commencement
 
 Work will not begin until:
 
@@ -48,7 +42,7 @@ Delays in payment or incomplete onboarding may result in rescheduling the projec
 
 ---
 
-### 4. Payment Schedule
+## 4. Payment Schedule
 
 The full project cost is split as follows:
 
@@ -66,7 +60,7 @@ These staged payments will continue regardless of feedback cycles and may extend
 
 ---
 
-### 5. Payment Obligations
+## 5. Payment Obligations
 
 By approving the project, you commit to the full payment schedule above. This applies regardless of:
 
@@ -78,7 +72,7 @@ By approving the project, you commit to the full payment schedule above. This ap
 
 ---
 
-### 6. Revisions and Acceptance
+## 6. Revisions and Acceptance
 
 You’ll have 30 days after any major deliverable is issued to review and request reasonable revisions. If no feedback is received, the deliverable will be considered accepted.
 
@@ -86,7 +80,7 @@ Further changes after this period may be scoped and billed separately.
 
 ---
 
-### 7. Suspension for Non-Payment
+## 7. Suspension for Non-Payment
 
 If any invoice becomes overdue:
 
@@ -104,12 +98,12 @@ These terms should be read in conjunction with our [General Terms of Business](/
 
 ---
 
-### 8. Scope and Changes
+## 8. Scope and Changes
 
 Work is limited to the features and deliverables defined in your project proposal. Any changes will require a revised estimate and written approval before being actioned.
 
 ---
 
-### 9. Legal Reference
+## 9. Legal Reference
 
 All projects are governed by these terms and our [General Terms of Business](/general), which also cover intellectual property, data protection, liability limitations, and legal jurisdiction under the laws of England and Wales.

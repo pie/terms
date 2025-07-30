@@ -1,21 +1,17 @@
+# WordPress Development Strongarm Terms
+
+_Last updated: [30/07/2025]_
+> These terms apply to all support-based services provided by PIE Code, a trading name of Pie Web Limited (Company No. 07995302), which may also be referred to as your **WordPress Development Strongarm** plan, the **Ongoing Support** component of a wider agreement, or as otherwise named in your proposal, contract or agreement. They should be read alongside our [General Terms of Business](/general), which apply to all services unless explicitly overridden here.
+
 ---
-title: WordPress Development Strongarm Terms
-description: These terms apply to all support-based work delivered by PIE Code.
----
 
-## WordPress Development Strongarm Terms
-
-These terms apply to your **Support Contract**, which may also be referred to as your **WordPress Development Strongarm** plan, the **Ongoing Support** component of a wider agreement, or as otherwise named in your proposal, contract or agreement.
-
-All clients under these terms are also bound by our [General Terms of Business](https://terms.pie.co.de/general), which include important clauses regarding liability, copyright, and non-payment.
-
-### 1. Definitions
+## 1. Definitions
 
 - **Working Day (WD):** 8 hours of service-level time, typically within business hours
 - **Base Hours:** Retained hours included in your monthly support plan
 - **Backlog:** A queue of future or low-priority requests, available to Essentials+ clients
 
-### 2. Service Levels
+## 2. Service Levels
 
 For all support contracts except Ad-hoc:
 
@@ -26,7 +22,7 @@ For all support contracts except Ad-hoc:
 
 The above guarantees apply only to Base Hours. Rollover Hours are not covered by the SLA and will be scheduled subject to availability.
 
-### 3. Communication Channels
+## 3. Communication Channels
 
 You can raise support requests through the following channels:
 
@@ -37,7 +33,7 @@ You can raise support requests through the following channels:
 
 Essentials clients are entitled to a monthly call with a Lead Developer. Advantage and Premium clients receive weekly calls.
 
-### 4. Billable vs. Unbillable Time
+## 4. Billable vs. Unbillable Time
 
 **Billable time includes:**
 
@@ -54,7 +50,7 @@ If we don’t know how to do something in WordPress, we won’t charge you while
 
 All billable time will be logged and provided with each invoice.
 
-### 5. Approval and Escalation
+## 5. Approval and Escalation
 
 By raising a support request, you authorise us to spend up to **1 hour** investigating or resolving the issue.
 
@@ -67,7 +63,7 @@ This threshold resets each time additional hours are required. No further billab
 
 Without explicit approval, your monthly usage will be limited to your Base Hours. If that limit is reached, we’ll stop work unless you authorise additional hours. Any work beyond the authorised maximum will not be billed unless explicitly approved.
 
-### 6. Support Request Closure and Backlog
+## 6. Support Request Closure and Backlog
 
 If you are on the **Essentials**, **Advantage**, or **Premium** tier, you have access to a **backlog** for lower-priority or future-scheduled requests.
 
@@ -82,7 +78,7 @@ Backlogged items remain available for prioritisation during your scheduled calls
 
 If we request more information from you and do not receive a response within **10 Working Days**, the same process applies: a reminder at 5WD, followed by backlog or closure at 10WD, depending on your tier.
 
-### 7. Out-of-Hours Support
+## 7. Out-of-Hours Support
 
 We can accommodate out-of-hours support requests with advance notice. This service:
 
@@ -90,13 +86,13 @@ We can accommodate out-of-hours support requests with advance notice. This servi
 - Will be billed at **double** your ad-hoc hourly rate
 - Will not count toward your included hours or be covered by the SLA
 
-### 8. Term and Termination
+## 8. Term and Termination
 
 Support contracts have a minimum term of **three months**. After that, they continue month to month unless terminated.
 
 To terminate, simply notify us any time after your second Base Hours invoice. We’ll treat your next invoice as the final one.
 
-### 9. Late Payment
+## 9. Late Payment
 
 If payment is overdue, we reserve the right to suspend support and continue invoicing for the monthly base charge until your account is brought back into good standing. This does not affect your obligation to pay, nor does it prevent future billing cycles.
 

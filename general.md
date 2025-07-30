@@ -1,9 +1,4 @@
----
-title: General Terms of Business
-description: These terms apply to all work undertaken by PIE Code.
----
-
-## General Terms of Business
+# General Terms of Business
 
 _Last updated: [30/07/2025]_
 
@@ -11,13 +6,13 @@ PIE Code is a trading name of Pie Web Limited (Company No. 07995302), registered
 
 ---
 
-### Estimates and Validity
+## Estimates and Validity
 
 Any estimates or proposals we provide are valid for 30 days. If you approve work after this period, we may need to re-confirm pricing or timelines.
 
 ---
 
-### Termination and Refunds
+## Termination and Refunds
 
 You can request to terminate your contract at any time.
 
@@ -27,9 +22,9 @@ You can request to terminate your contract at any time.
 
 ---
 
-### Responsibilities
+## Responsibilities
 
-#### You agree to
+### You agree to
 
 - Enter into the contract with full authority on behalf of your business.
 - Provide the content, access, and approvals we need to deliver the work.
@@ -39,14 +34,14 @@ You can request to terminate your contract at any time.
 - Not resell or redistribute our work without prior written agreement.
 - Keep any access credentials we share with you confidential.
 
-#### We agree to
+### We agree to
 
 - Perform the work described in your contract professionally and promptly.
 - Inform you of any issues that may affect delivery or cost, with proposed solutions.
 
 ---
 
-### Intellectual Property and Licensing
+## Intellectual Property and Licensing
 
 You confirm you own (or have the right to use) all assets you provide—text, images, logos, branding, etc.
 
@@ -59,7 +54,7 @@ We may showcase work we've done for you in our portfolio or write about the proj
 
 ---
 
-### Data Protection and Privacy
+## Data Protection and Privacy
 
 We treat all access credentials, business information, and data you share with us as confidential.
 
@@ -73,7 +68,7 @@ You remain the data controller for any personal data associated with your websit
 
 ---
 
-### Liability and Limitations
+## Liability and Limitations
 
 We aim to meet deadlines and deliver quality work, but cannot guarantee our work will always be error-free or uninterrupted.
 
@@ -90,7 +85,7 @@ If we choose not to enforce any part of these terms at a given time, that does n
 
 ---
 
-### Jurisdiction
+## Jurisdiction
 
 These terms are governed by the laws of England and Wales.
 
