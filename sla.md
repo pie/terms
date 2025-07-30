@@ -1,4 +1,4 @@
-# WordPress Development Strongarm Terms
+# Service Level and Terms for Support Contracts
 
 _Last updated: [30/07/2025]_
 > These terms apply to all support-based services provided by PIE Code, a trading name of Pie Web Limited (Company No. 07995302), which may also be referred to as your **WordPress Development Strongarm** plan, the **Ongoing Support** component of a wider agreement, or as otherwise named in your proposal, contract or agreement. They should be read alongside our [General Terms of Business](/general), which apply to all services unless explicitly overridden here.
