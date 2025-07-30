@@ -78,7 +78,19 @@ Backlogged items remain available for prioritisation during your scheduled calls
 
 If we request more information from you and do not receive a response, the same process applies: a reminder at 5WD, followed by backlog or closure at 10WD, depending on your tier.
 
-## 7. Out-of-Hours Support
+## 7. Rollover Hours and Reasonable Use
+
+Unused Base Hours from your Support Contract roll over indefinitely and can be used for future work.
+
+There is no cap on how many hours you can accrue; however, we ask clients to be mindful that:
+
+- Redeeming large volumes of hours (e.g. more than twice the amount of monthly retained hours) is subject to scheduling availability and needs to be booked in advance
+- We may need to phase or prioritise the work across multiple weeks or months depending on current commitments
+- Rollover hours are not covered under SLA response or waiting times unless otherwise agreed
+
+This approach ensures we can honour all Support Contracts fairly while still giving you flexibility in how you use your retained time.
+
+## 8. Out-of-Hours Support
 
 We can accommodate out-of-hours support requests with advance notice. This service:
 
@@ -86,7 +98,7 @@ We can accommodate out-of-hours support requests with advance notice. This servi
 - Will be billed at **double** your ad-hoc hourly rate
 - Will not count toward your included hours or be covered by the SLA
 
-## 8. Term and Termination
+## 9. Term and Termination
 
 Support contracts carry a minimum commitment of three months. After that, they continue month-to-month unless terminated.
 
@@ -94,7 +106,7 @@ To cancel your Support Contract, you can notify us at any point after your secon
 
 **Note:** Support Contracts are non-refundable, and this termination clause applies in addition to our general terms of business.
 
-## 9. Late Payment
+## 10. Late Payment
 
 If payment is overdue, we reserve the right to suspend support and continue invoicing for the monthly base charge until your account is brought back into good standing. This does not affect your obligation to pay, nor does it prevent future billing cycles.
 
