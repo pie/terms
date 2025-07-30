@@ -1,28 +1,113 @@
+<<<<<<< HEAD
 # Terms for Project Development
+=======
+# Project Development Terms
 
-## What on earth are we talking about?
-If we are undertaking project development for you, then these terms will form part of our contract.
+_Last updated: [30/07/2025]_
+> These terms apply to all project-based services provided by PIE Code, a trading name of Pie Web Limited (Company No. 07995302). They should be read alongside our [General Terms of Business](/general), which form part of your agreement with us.
+>>>>>>> main
 
-## Project commencement
-Your development contract will be issued alongside an invoice for a relevant Starter Payment. Development can not begin until the Starter Payment has been cleared to Pie Web Limited and all the required assets, information and materials have been made available to us.
+---
 
-Unless specifically stated otherwise within your development contract, development is scheduled to begin with immediate effect. Any delay in the signing or payment of the Starter Payment invoice, or delay in the supply of any required designs, information or materials may result in delays to the project or the project needing to be completely rescheduled.
+## 1. Definitions
 
-## Project delivery
-Throughout delivery of the Project, time shall not be of the essence, except where specifically stated in your development contract.
+- **Project**: Any scoped development work agreed under a signed contract or proposal.
+- **Deposit**: A non-refundable 2.5% payment required to secure a scheduled project slot.
+- **Starter Payment**: A 22.5% pre-work payment for scheduled projects, or a single 25% payment for immediate-start projects.
+- **Staged Payments**: Five further payments of 15% each, billed monthly throughout and after the project.
+- **Deliverables**: Any software, code, or assets to be supplied as part of the agreed project scope.
 
-Should any agreed specification or design prove to be unattainable through reasonable effort, we will inform you immediately and supply in writing the closest workable solution achievable within the estimated budget. Once agreed, this solution will replace the original specification with regards to delivery for approval or acceptance testing.
+---
 
-We shall notify you when the Project or any agreed modular component is available for approval or acceptance testing and issue an invoice for the relevant Delivery Payments.
+## 2. Booking and Scheduling
 
-Unless specifically stated otherwise within your development contract, you must advise us of any errors or required revisions in that version of the Project or component within 30 days. We will use reasonable endeavours to accommodate such revisions and correct such errors.
+For most projects, the full upfront requirement is split into two parts:
 
-## Project sign-off
-If you do not notify us of any errors or revisions within the time-frame specified following delivery, the Project or modular component will be deemed to have been completed to a satisfactory standard and we will raise an invoice for the relevant Sign-off Payments.
+- A **2.5% non-refundable Deposit** to secure your slot in our development schedule.
+- A **22.5% Starter Payment** due before work begins.
 
-After this time, any requested changes or amendments will be deemed as additional to your project development contract.
+Project timelines remain provisional until the Deposit is received and may be delayed or lost if not paid promptly.
 
-## Project scope
-The scope of your development contract is restricted to that functionality described therein. We reserve the right to charge for any additional work outside of that functionality and will provide you with an additional estimate which will form part of an amended or separate development contract.
+In some cases—such as when work is due to commence immediately and scheduling permits—we may waive the Deposit and instead require a **single 25% Starter Payment** up front.
 
-You will be required to agree the amended or separate contract before work on the amended scope can commence.
+---
+
+## 3. Project Commencement
+
+Work will not begin until:
+
+- We receive a signed agreement or formal approval of the proposal,
+- The required upfront payment has cleared in our bank account:
+  - For scheduled work: the **2.5% Deposit** and **22.5% Starter Payment**, or
+  - For immediate-start work: the **25% Starter Payment**, and
+- All required assets, content, access, and information have been provided by you.
+
+Delays in payment or incomplete onboarding may result in rescheduling the project.
+
+---
+
+## 4. Payment Schedule
+
+The full project cost is split as follows:
+
+- **Scheduled projects:**
+  - 2.5% Deposit (non-refundable)
+  - 22.5% Starter Payment
+- **Immediate-start projects:**
+  - 25% Starter Payment (in place of Deposit + Starter)
+
+Followed by:
+
+- **5 × 15% Staged Payments** — issued monthly from the start of the project
+
+These staged payments will continue regardless of feedback cycles and may extend beyond project completion. Unless detailed in your specific project proposal, staged payments are not tied to specific milestones.
+
+---
+
+## 5. Payment Obligations
+
+By approving the project, you commit to the full payment schedule above. This applies regardless of:
+
+- Whether you continue to use the work delivered,
+- Whether you choose to pause or exit the project early, or
+- Whether deliverables are under review or revision.
+
+**All payments remain due in full. There is no option to cancel or suspend staged payments once the project has begun.**
+
+---
+
+## 6. Revisions and Acceptance
+
+You’ll have 30 days after any major deliverable is issued to review and request reasonable revisions. If no feedback is received, the deliverable will be considered accepted.
+
+Further changes after this period may be scoped and billed separately.
+
+---
+
+## 7. Suspension for Non-Payment
+
+If any invoice becomes overdue:
+
+- We may pause work and remove access to related deliverables.
+- Project timelines may be revised or rescheduled.
+- Continued non-payment may result in permanent suspension of services.
+
+You remain liable for all payments due under the agreed project schedule. If necessary, we reserve the right to pursue outstanding amounts through legal action, including the use of third-party collection agencies.
+
+We also reserve the right to charge interest on overdue invoices at the statutory rate set by the Late Payment of Commercial Debts (Interest) Act 1998, accruing daily from the due date until full payment is received.
+
+You agree to cover any reasonable enforcement costs incurred in recovering unpaid amounts.
+
+These terms should be read in conjunction with our [General Terms of Business](/general), which set out additional rights relating to late payment, legal enforcement, and limitation of liability.
+
+---
+
+## 8. Scope and Changes
+
+Work is limited to the features and deliverables defined in your project proposal. Any changes will require a revised estimate and written approval before being actioned.
+
+---
+
+## 9. Legal Reference
+
+All projects are governed by these terms and our [General Terms of Business](/general), which also cover intellectual property, data protection, liability limitations, and legal jurisdiction under the laws of England and Wales.

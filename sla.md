@@ -1,126 +1,99 @@
-# Service Level and Terms for Support Contracts
+# Service Level and Terms for Support
 
-## What on earth are we talking about?
+_Last updated: [30/07/2025]_
+> These terms apply to all support-based services provided by PIE Code, a trading name of Pie Web Limited (Company No. 07995302), which may also be referred to as your **WordPress Development Strongarm** plan, the **Ongoing Support** component of a wider agreement, or as otherwise named in your proposal, contract or agreement. They should be read alongside our [General Terms of Business](/general), which apply to all services unless explicitly overridden here.
 
-Your support contract is your Ongoing Support Contract or the Ongoing Support component of your contract with Pie Web Limited, and any further documentation directly referenced within it.
+---
 
-Waiting time (WT) is the time between us receiving your support request and the time that a live person gets back to you with a view to estimating the amount of time required and scheduling the work.
+## 1. Definitions
 
-Response time (RT) is the time between us receiving your support request and the time for which work commences on the support request.
+- **Working Day (WD):** 8 hours of service-level time, typically within business hours
+- **Base Hours:** Retained hours included in your monthly support plan
+- **Backlog:** A queue of future or low-priority requests, available to Essentials+ clients
 
-The service level window (SLW) is the time during which somebody will be manning the support desk ready to respond to support requests. Waiting and Response time can not advance outside this period.
+## 2. Service Levels
 
-A working day (WD) is a time unit comprising 8 hours of SLW time and may span multiple calendar days.
+For all support contracts except Ad-hoc:
 
-Base payment is the number of hours which are included with your base payment every month.
+- **Service Level Window (SLW):** 08:30–18:00 UK time, Monday to Friday (excluding public holidays)
+- **Maximum Waiting Time:** (Time from receiving your request to our first human response) 1 Working Day
+- **Maximum Response Time:** (Time from receiving your request to work commencing) 3 Working Days
+- **Rollover:** Any unused retained hours roll over indefinitely, unless otherwise agreed
 
-Rollover is the amount of time from any given month that, if unused, can be used in the following month at no extra cost.
+The above guarantees apply only to Base Hours. Rollover Hours are not covered by the SLA and will be scheduled subject to availability.
 
-## Service level table
+## 3. Communication Channels
 
-<table>
-	<tr>
-		<th>Contract</th>
-		<th>SLW</th>
-		<th>Maximum WT</th>
-		<th>Maximum RT</th>
-		<th>Included Hours</th>
-		<th>Maximum Rollover</th>
-	</tr>
-	<tr>
-		<td>Micro (Legacy)</td>
-		<td>0900 - 1700 GMT/BST*</td>
-		<td>1WD</td>
-		<td>5WD</td>
-		<td>1.5 hours</td>
-		<td>0 hours</td>
-	</tr>
-	<tr>
-		<td>Digital Agency Support (Legacy)</td>
-		<td>0830 - 1800 GMT/BST*</td>
-		<td>1WD</td>
-		<td>3WD</td>
-		<td>10 hours</td>
-		<td>5 hours</td>
-	</tr>
-		<tr>
-		<td>Essentials Tier</td>
-		<td>0830 - 1800 GMT/BST*</td>
-		<td>1WD</td>
-		<td>3WD</td>
-		<td>5 hours</td>
-		<td>5 hours</td>
-	</tr>
-		<tr>
-		<td>Advantage Tier</td>
-		<td>0830 - 1800 GMT/BST*</td>
-		<td>1WD</td>
-		<td>3WD</td>
-		<td>20 hours</td>
-		<td>20 hours</td>
-	</tr>
-		<tr>
-		<td>Premium Tier</td>
-		<td>0830 - 1800 GMT/BST*</td>
-		<td>1WD</td>
-		<td>3WD</td>
-		<td>72 hours</td>
-		<td>72 hours</td>
-	</tr>
-</table>
+You can raise support requests through the following channels:
 
-\* Excluding Saturday, Sunday and UK public holidays
+- **Support Portal:** [https://support.pie.co.de](https://support.pie.co.de)
+- **Email:** [support@pie.co.de](mailto:support@pie.co.de)
+- **Phone:** +44 (0)20 7873 2224 — request a callback within SLW
+- **Slack:** A dedicated Slack channel on our Slack server/servers
 
-## Support channels
+Essentials clients are entitled to a monthly call with a Lead Developer. Advantage and Premium clients receive weekly calls.
 
-* Client support portal: A web-based support portal at https://support.pie.co.de
-* Email: Send email to support@pie.co.de, which will raise a ticket at https://support.pie.co.de
-* 24/7 telephone: Call +44 (0)20 7873 2224 at any time and request a callback within SLW
-* Instant message: Contact via a dedicated Slack channel for responses within SLW (Premium Tier only)
+## 4. Billable vs. Unbillable Time
 
-## Support request closure
+**Billable time includes:**
 
-A support request will be considered to be closed under one of the following conditions.
+1. Time spent delivering the services listed in your support contract
+2. Time spent researching or delivering any services not included above
+3. Time spent communicating with you or third parties about the above
 
-1. We supply a workaround, information that resolves the issue or carry out work and you agree that the issue is resolved.
-1. You have not responded 10WD after a workaround or information is provided.
-1. You have not responded 10WD after additional information has been requested.
+**Unbillable time includes:**
 
-In cases 2 and 3 above, we will follow up with you on or around 5WD and you will receive notification when the ticket is resolved
+1. Time spent researching how to deliver services listed in your support contract
+2. Time spent administering your contract (e.g. reporting and billing)
 
-## Billable vs. unbillable time
+If we don’t know how to do something in WordPress, we won’t charge you while we figure it out. If you ask us to investigate a different CMS or external platform, that research time will be considered billable.
 
-The following will be regarded as billable time:
+All billable time will be logged and provided with each invoice.
 
-1. Any time we spend delivering the services listed in your support contract
-1. Any time we spend researching or delivering any services not included in point (1)
-1. Any time we spend communicating with you or with any third parties in relation to points (1) and (2)
+## 5. Approval and Escalation
 
-The following will be regarded as unbillable time:
+By raising a support request, you authorise us to spend up to **1 hour** investigating or resolving the issue.
 
-1. Any time we spend researching the services listed in your support contract
-1. Any time we spend administering your contract (e.g. reporting & billing)
+If we believe a request will exceed 1 hour:
 
-All billable time will be tracked and a report supplied accompanying any invoice
+- We’ll notify you with a time estimate
+- We won’t continue until you’ve explicitly approved the work through one of our nominated support channels
 
-## If you need a bit more time...
-Should you exceed your included hours in any given month, we will inform you of this fact and you will have the option to place your account on hold until the following month. Any overages incurred up to that point will be considered billable.
+This threshold resets each time additional hours are required. No further billable time will be spent without your explicit approval.
 
-Your account will be limited to twice the number of your included hours in any given month, and we will inform you immediately if this amount is reached. Unless specifically authorised by yourself, any hours worked beyond this amount will be considered unbillable. Once authorised, any work beyond this amount will not be bound by the terms of this SLA.
+Without explicit written approval, your monthly usage will be limited to your Base Hours. If that limit is reached, we’ll stop work unless you authorise additional hours. Any work beyond the authorised maximum will not be billed unless explicitly approved through one of our nominated support channels.
 
-## If you need us outside of business hours...
-It is possible to arrange for support outside the service level window defined in the SLA. While we will endeavour to accommodate any request, such support cannot be guaranteed and must be pre-arranged and agreed via email by a representative of Pie Web Limited.
+## 6. Support Request Closure and Backlog
 
-Out of hours support will be charged at double the ad-hoc hourly rate defined in your contract, under the same payment terms and detailed separately on any invoice. Out of hours support will not form part of the included Ad-hoc Support Hours.
+If you are on the **Essentials**, **Advantage**, or **Premium** tier, you have access to a **backlog** for lower-priority or future-scheduled requests.
 
-## Term and termination
+If we’ve responded to a ticket and do not hear back from you, we will:
 
-Your support contract has a minimum term of three months, after which we will assume that you wish to continue on a month by month basis. If you decide that you wish to terminate your contract, all you need to do is let us know at any point after your second base charge has been issued and we will make the following base charge your last.
+- Send a reminder after **5WD**
+- If we have not heard from you within **10WD** of our last reply, we will either:
+  - **Move the request to your backlog** (Essentials+ clients), or
+  - **Close the request** (Ad-hoc clients)
 
-## Outstanding payments
+Backlogged items remain available for prioritisation during your scheduled calls or when you're ready to proceed.
 
-During any period where invoices remain outstanding, unless requested otherwise by yourselves we will continue to generate monthly invoices including a base charge component.
+If we request more information from you and do not receive a response, the same process applies: a reminder at 5WD, followed by backlog or closure at 10WD, depending on your tier.
 
-## If something goes wrong
+## 7. Out-of-Hours Support
 
-If we are in violation of the SLA in any given month then you will have the right to terminate your contract without incurring another base charge. Alternatively you may elect to continue and receive a 10% discount on your base payment for the following month. In order to receive the discount, you must make a request via an offical support channel within 5WD of the violation. The discount received in any month  may not be carried over to any other services, and will not be paid in cash.
+We can accommodate out-of-hours support requests with advance notice. This service:
+
+- Must be pre-arranged and agreed in writing
+- Will be billed at **double** your ad-hoc hourly rate
+- Will not count toward your included hours or be covered by the SLA
+
+## 8. Term and Termination
+
+Support contracts have a minimum term of **three months**. After that, they continue month to month unless terminated.
+
+To terminate, simply notify us any time after your second Base Hours invoice. We’ll treat your next invoice as the final one.
+
+## 9. Late Payment
+
+If payment is overdue, we reserve the right to suspend support and continue invoicing for the monthly base charge until your account is brought back into good standing. This does not affect your obligation to pay, nor does it prevent future billing cycles.
+
+Please also refer to our [General Terms of Business](https://terms.pie.co.de/general) for further details on non-payment, interest charges, and recovery action.
