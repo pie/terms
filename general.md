@@ -1,66 +1,97 @@
-### You are viewing a pre-live document
-> current live version at http://terms.pie.co.de/
+---
+title: General Terms of Business
+description: These terms apply to all work undertaken by PIE Code.
+---
 
-# General Terms of Business
+## General Terms of Business
 
-## Before we start working
+_Last updated: [30/07/2025]_
 
-Any prices that we provide in an estimate or a contract will be valid for 30 days. If you get back to us after this time, we might need to review the pricing.
+PIE Code is a trading name of Pie Web Limited (Company No. 07995302), registered in England and Wales. These terms apply to all services provided by Pie Web Limited under the PIE Code brand, including support, hosting, and project-based development, unless otherwise agreed in writing.
 
-## If you need to back out
+---
 
-You may request that we terminate any contract at any time.
+### Estimates and Validity
 
-We will always accept a request for termination if work has not yet begun, no services have been delivered and we have incurred no costs relating to any work or services upon which we've agreed.
+Any estimates or proposals we provide are valid for 30 days. If you approve work after this period, we may need to re-confirm pricing or timelines.
 
-If work or service delivery has already begun or any costs have been incurred then you agree to pay us for that work, those services or those costs. You will not be entitled to refunds of any payments already made.
+---
 
-## Outstanding payments
+### Termination and Refunds
 
-If payment is not received within 30 days of the due date of any invoice, we reserve the right to:
- 
-* Refuse to undertake any further work for you until your account is back in good standing. 
-* Remove public access to any related hosting environment until your account is brought back into good standing.
-* Remove any work done from any computer systems and the internet or remove public access to those systems until your account is brought back into good standing.
-* Apply a late payment fee of 8% interest per month, accruing daily until your account is brought back into good standing.
-* Engage a third party collection agency with subsequent charges added to your outstanding balance.
-* Hold you liable for any reaasonable legal expenses incurred in the enforcement of this condition.
- 
-## What do both parties agree to?
+You can request to terminate your contract at any time.
 
-As our client:
-* You have the power and ability to enter into this contract on behalf of your company or organization
-* You agree to provide us with everything that we need to complete work on your behalf as and when we need it, and in the format that we ask
-* You agree to review our work, provide feedback and sign-off approval in a timely manner
-* You agree to stick to the payment schedule set out in this proposal
-* The compliance with any laws and legal requirements of any work that we do for you is wholly your responsibility.
-* You will not resell or distribute our work in any form unless we specifically tell you that it's OK to do so.
-* You will keep any passwords or access details we share with you confidential at all times.
+- If no work has begun and no costs have been incurred, we will cancel the contract without charge.
+- If work has started or we’ve incurred costs on your behalf, you agree to pay for the time, services, and expenses delivered up to that point.
+- Payments already made are non-refundable.
 
-As the service provider, we agree that:
+---
 
-* We have the experience and ability to perform the services listed in our contract
-* We agree to carry out those services in a prompt and professional manner
-* We agree to advise you of any unforeseen issues that may arise affecting delivery times or cost without delay and with a proposal for resolution
+### Responsibilities
 
-## A bit about copyright
+#### You agree to
 
-You guarantee that you own any elements of text, graphics, photos, designs, trademarks, or other artwork / resources that you provide, or that you have permission to use them.
+- Enter into the contract with full authority on behalf of your business.
+- Provide the content, access, and approvals we need to deliver the work.
+- Give timely feedback and sign-off decisions.
+- Follow the agreed payment schedule.
+- Accept responsibility for complying with any laws or regulations affecting your business or website.
+- Not resell or redistribute our work without prior written agreement.
+- Keep any access credentials we share with you confidential.
 
-We guarantee to you that any third party code or code library will be used within the terms of its own licence.
+#### We agree to
 
-On full payment, we will release any HTML, CSS, Javascript and PHP code that we create under the terms of the GNU General Public License v3. This is an open software license that will not bind you to any charges going forward. For more information, please visit
+- Perform the work described in your contract professionally and promptly.
+- Inform you of any issues that may affect delivery or cost, with proposed solutions.
 
-https://tldrlegal.com/license/gnu-general-public-license-v3-(gpl-3)
+---
 
-We love to show off our work and share what we have learned with other people, so we reserve the right to display and link to any work as part of our portfolio and to write about the projects on websites, in magazine articles and in books about web design / development.
+### Intellectual Property and Licensing
 
-## A bit of legal stuff
+You confirm you own (or have the right to use) all assets you provide—text, images, logos, branding, etc.
 
-We will always endeavor to meet any deadlines upon which we agree and we are specialists in what we do, but we are human so we can't guarantee that our work will always be error-free and that we won't come up against unforeseen problems. As such, we can't be liable to you or any third party for damages, including lost profits, lost savings or other incidental, consequential or special damages arising out of a missed deadline, the operation of or inability to operate a web site or any other web pages, even if you have advised us of the possibilities of such damages.
+We use third-party libraries and software only in accordance with their respective licenses.
 
-All services we provide to you are governed by these terms and conditions. Any changes to these terms must be agreed by both parties in writing.
+Unless otherwise agreed, all code we create - including themes, plugins, templates, and site-specific functionality - is licensed under the GNU General Public License v3 (GPLv3). This open-source license allows you to use, modify, and distribute the code without additional fees.  
+Learn more: [GNU General Public License v3 (GPLv3)](https://tldrlegal.com/license/gnu-general-public-license-v3-(gpl-3))
 
-If we don't happen to enforce any of these terms and conditions at any time or for any period, that does not mean that they do not apply and does not in any way exonerate you or affect your liability. It also does not waive our right to enforce these conditions at any time afterwards.
+We may showcase work we've done for you in our portfolio or write about the project, unless you request otherwise in writing.
 
-If any provision of this agreement shall be unlawful, void, or for any reason unenforceable, then that provision shall be deemed severable from this agreement and shall not affect the validity and enforceability of any remaining provisions.
+---
+
+### Data Protection and Privacy
+
+We treat all access credentials, business information, and data you share with us as confidential.
+
+- You agree not to share any credentials or sensitive data unless necessary for us to carry out our work.
+- We store credentials securely in a password manager and retain them unless you request deletion.
+- If you no longer wish us to retain access, it's your responsibility to change or revoke any passwords or credentials after work is complete.
+- We will take reasonable technical and organisational measures to safeguard all data and credentials you provide.
+- Any client data shared with us will be handled in accordance with the UK General Data Protection Regulation (UK GDPR).
+
+You remain the data controller for any personal data associated with your website or customers. We do not take responsibility for your site’s compliance with privacy laws unless explicitly contracted to provide data protection consultancy.
+
+---
+
+### Liability and Limitations
+
+We aim to meet deadlines and deliver quality work, but cannot guarantee our work will always be error-free or uninterrupted.
+
+We are not liable for:
+
+- Missed deadlines
+- Downtime or inaccessibility of your website
+- Lost profits or savings
+- Consequential or indirect damages
+
+These terms apply to all services unless specifically overridden in writing. If any clause is found to be invalid, the remainder will still apply.
+
+If we choose not to enforce any part of these terms at a given time, that does not waive our right to enforce them later.
+
+---
+
+### Jurisdiction
+
+These terms are governed by the laws of England and Wales.
+
+Any disputes will be subject to the exclusive jurisdiction of the courts of England and Wales.
