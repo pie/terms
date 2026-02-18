@@ -13,21 +13,23 @@ _Last updated: [18/02/2026]_
 
 ## 2. Service Levels
 
-For all support agreements except Ad-hoc:
+For all Support Agreements except standalone Ad-hoc Support:
 
 - **Service Level Window (SLW):** 08:30–18:00 UK time, Monday to Friday (excluding public holidays)
 - **Maximum Waiting Time:** (Time from receiving your request to our first human response) 1 Working Day
 - **Maximum Response Time:** (Time from receiving your request to work commencing) 3 Working Days
 - **Rollover:** Any unused retained hours roll over indefinitely, unless otherwise agreed
 
-The above guarantees apply only to Base Hours included within your active monthly Support Agreement. It does not apply to:
+The above guarantees apply only to Base Hours included within your active monthly Support Agreement.
+
+The SLA does not apply to:
 
 - Any authorised hours worked beyond your Base Hours in a given calendar month (Ad-hoc Overages)
-- Any hours worked as part of an Ad-hoc Support agreement
-- Any hours worked as Rollover Hours
+- Any standalone Ad-hoc Support agreement
+- Any Rollover Hours
 - Any Out-of-hours support requests
 
-These hours will be scheduled subject to team availability and existing retained client commitments.
+Work falling outside Base Hours will be scheduled subject to team availability and existing retained client commitments.
 
 ## 3. Communication Channels
 
