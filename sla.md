@@ -1,6 +1,6 @@
 # Service Level and Terms for Support Contracts
 
-_Last updated: [30/07/2025]_
+_Last updated: [18/02/2026]_
 > These terms apply to all support-based services provided by PIE Code, a trading name of Pie Web Limited (Company No. 07995302), which may also be referred to as your **WordPress Development Strongarm** plan, the **Ongoing Support** component of a wider agreement, or as otherwise named in your proposal, contract or agreement. They should be read alongside our [General Terms of Business](/general), which apply to all services unless explicitly overridden here.
 
 ---
@@ -13,14 +13,22 @@ _Last updated: [30/07/2025]_
 
 ## 2. Service Levels
 
-For all support contracts except Ad-hoc:
+For all support agreements except Ad-hoc:
 
 - **Service Level Window (SLW):** 08:30–18:00 UK time, Monday to Friday (excluding public holidays)
 - **Maximum Waiting Time:** (Time from receiving your request to our first human response) 1 Working Day
 - **Maximum Response Time:** (Time from receiving your request to work commencing) 3 Working Days
 - **Rollover:** Any unused retained hours roll over indefinitely, unless otherwise agreed
 
-The above guarantees apply only to Base Hours. Rollover Hours are not covered by the SLA and will be scheduled subject to availability.
+The above guarantees apply only to Base Hours included within your active monthly Support Agreement.
+
+The SLA does not apply to:
+
+- Rollover Hours
+- Any authorised hours worked beyond your Base Hours in a given calendar month (Ad-hoc Overages)
+- Any hours worked as part of an Ad-hoc Support agreement
+
+These hours will be scheduled subject to team availability and existing retained client commitments.
 
 ## 3. Communication Channels
 
