@@ -20,9 +20,7 @@ For all support agreements except Ad-hoc:
 - **Maximum Response Time:** (Time from receiving your request to work commencing) 3 Working Days
 - **Rollover:** Any unused retained hours roll over indefinitely, unless otherwise agreed
 
-The above guarantees apply only to Base Hours included within your active monthly Support Agreement.
-
-The SLA does not apply to:
+The above guarantees apply only to Base Hours included within your active monthly Support Agreement. It does not apply to:
 
 - Rollover Hours
 - Any authorised hours worked beyond your Base Hours in a given calendar month (Ad-hoc Overages)
