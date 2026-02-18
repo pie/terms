@@ -22,9 +22,10 @@ For all support agreements except Ad-hoc:
 
 The above guarantees apply only to Base Hours included within your active monthly Support Agreement. It does not apply to:
 
-- Rollover Hours
 - Any authorised hours worked beyond your Base Hours in a given calendar month (Ad-hoc Overages)
 - Any hours worked as part of an Ad-hoc Support agreement
+- Any hours worked as Rollover Hours
+- Any Out-of-hours support requests
 
 These hours will be scheduled subject to team availability and existing retained client commitments.
 
