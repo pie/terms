@@ -1,6 +1,6 @@
 # Service Level and Terms for Support Contracts
 
-_Last updated: [18/02/2026]_
+_Last updated: [02/04/2026]_
 > These terms apply to all support-based services provided by PIE Code, a trading name of Pie Web Limited (Company No. 07995302), which may also be referred to as your **WordPress Development Strongarm** plan, the **Ongoing Support** component of a wider agreement, or as otherwise named in your proposal, contract or agreement. They should be read alongside our [General Terms of Business](/general), which apply to all services unless explicitly overridden here.
 
 ---
@@ -120,3 +120,11 @@ To cancel your Support Contract, you can notify us at any point after your secon
 If payment is overdue, we reserve the right to suspend support and continue invoicing for the monthly base charge until your account is brought back into good standing. This does not affect your obligation to pay, nor does it prevent future billing cycles.
 
 Please also refer to our [General Terms of Business](https://terms.pie.co.de/general) for further details on non-payment, interest charges, and recovery action.
+
+## 11. Rate Reviews
+
+We review our pricing periodically to reflect changes in operating costs, market conditions, and the level of service provided.
+
+Where pricing changes apply to your Support Contract, we will provide reasonable notice in writing, typically no less than 28 days, before any changes take effect.
+
+If you do not wish to continue under the updated pricing, you may terminate your Support Contract in line with the Term and Termination clause.
