@@ -1,11 +1,7 @@
-<<<<<<< HEAD
-# Terms for Project Development
-=======
 # Project Development Terms
 
 _Last updated: [30/07/2025]_
 > These terms apply to all project-based services provided by PIE Code, a trading name of Pie Web Limited (Company No. 07995302). They should be read alongside our [General Terms of Business](/general), which form part of your agreement with us.
->>>>>>> main
 
 ---
 
